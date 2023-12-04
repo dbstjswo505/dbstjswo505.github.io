@@ -32,7 +32,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
-- *2023.12*: &nbsp;🏆 I got [Best Paper Award](https://ee.kaist.ac.kr/en/research-achieve/ph-d-candidate-sunjae-yoon-prof-chang-d-yoo-wins-best-paper-award/) in JKAIA 2023 
+- *2023.11*: &nbsp;🏆 I got [Best Paper Award](https://ee.kaist.ac.kr/en/research-achieve/ph-d-candidate-sunjae-yoon-prof-chang-d-yoo-wins-best-paper-award/) in JKAIA 2023 
 - *2023.10*: &nbsp;🎉 One paper accepted to ICCV 2023 
 
 # 🏫 Education
@@ -52,6 +52,8 @@ Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 # 📝 Publications 
 
 [*] equal contribution
+
+## 2023
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/emnlp2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -76,6 +78,44 @@ International Conference on Computer Vision (**ICCV**) 2023
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2023</div><img src='images/icassp2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval
+
+**Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, Chang D. Yoo
+
+The International Conference on Acoustics, Speech & Signal Processing (**ICASSP**), 2023, **Oral**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2023</div><img src='images/access2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video
+
+Ji Woo Hong, **Sunjae Yoon**, Junyeong Kim, Chang D. Yoo  
+
+IEEE Access, 2023
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2023</div><img src='images/iclr2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+ESD: EXPECTED SQUARED DIFFERENCE AS A TUNING-FREE TRAINABLE CALIBRATION MEASURE
+
+Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, **Sunjae Yoon**, Gwangsu Kim, Yingzhen Li, Chang D. Yoo 
+
+International Conference on Learning Representation (ICLR), 2023
+
+</div>
+</div>
+
+## 2022
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
