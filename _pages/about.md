@@ -85,7 +85,7 @@ International Conference on Computer Vision (**ICCV**) 2023
 
 **Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, Chang D. Yoo
 
-The International Conference on Acoustics, Speech & Signal Processing (**ICASSP**), 2023, **Oral**
+The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
 
 </div>
 </div>
@@ -151,6 +151,29 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
 European Conference on Computer Vision (**ECCV**) 2022
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2022</div><img src='images/access2022.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval](https://ieeexplore.ieee.org/document/9795270) 
+
+**Sunjae Yoon**, Dahyun Kim, Junyeong Kim, and Chang D. Yoo
+
+IEEE Access 2022
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2022</div><img src='images/access2022.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[SEMANTIC ASSOCIATION NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL](https://ieeexplore.ieee.org/document/9747523) 
+
+Dahyun Kim *, **Sunjae Yoon** *, Ji Woo Hong, and Chang D. Yoo
+
+The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022. **Oral**
 
 </div>
 </div>
