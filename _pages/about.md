@@ -166,7 +166,7 @@ IEEE Access 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2022</div><img src='images/access2022.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2022</div><img src='images/icassp2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [SEMANTIC ASSOCIATION NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL](https://ieeexplore.ieee.org/document/9747523) 
@@ -174,6 +174,20 @@ IEEE Access 2022
 Dahyun Kim *, **Sunjae Yoon** *, Ji Woo Hong, and Chang D. Yoo
 
 The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022. **Oral**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Sensors 2022</div><img src='images/sensors2022.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Dual-Scale Doppler Attention for Human Identification](https://www.mdpi.com/1424-8220/22/17/6363) 
+
+[[code]](https://github.com/dbstjswo505/DSDA)
+
+**Sunjae Yoon**, Dahyun Kim, Ji Woo Hong, and Chang D. Yoo
+
+MDPI Sensors, 2022
 
 </div>
 </div>
