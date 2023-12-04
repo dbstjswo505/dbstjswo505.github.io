@@ -63,11 +63,10 @@ HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
 **Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/iccv2023_.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
@@ -137,6 +136,21 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 **Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2022</div><img src='images/eccv2022.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Selective Query-guided Debiasing for Video Corpus Moment Retrieval](https://arxiv.org/pdf/2210.08714.pdf) 
+
+[[code]](https://github.com/dbstjswo505/SQuiDNet)
+
+**Sunjae Yoon**, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon , and Chang D. Yoo
+
+European Conference on Computer Vision (**ECCV**) 2022
+
 
 </div>
 </div>
