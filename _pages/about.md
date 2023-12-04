@@ -117,14 +117,26 @@ International Conference on Learning Representation (**ICLR**), 2023
 
 ## 2022
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2023</div><img src='images/iclr2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2022</div><img src='images/emnlp2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-ESD: EXPECTED SQUARED DIFFERENCE AS A TUNING-FREE TRAINABLE CALIBRATION MEASURE
+[Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://browse.arxiv.org/pdf/2212.05765.pdf)
 
-Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, **Sunjae Yoon**, Gwangsu Kim, Yingzhen Li, Chang D. Yoo 
+**Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
 
-International Conference on Learning Representation (**ICLR**), 2023
+Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2022</div><img src='images/emnlp2022.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[SMSMix: Sense-Maintained Sentence Mixup for Word Sense Disambiguation](https://arxiv.org/pdf/2212.07072.pdf)
+
+**Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
+
+Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
 </div>
 </div>
