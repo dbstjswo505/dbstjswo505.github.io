@@ -192,6 +192,34 @@ MDPI Sensors, 2022
 </div>
 </div>
 
+## 2021
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2022</div><img src='images/aaai2021.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Structured Co-reference Graph Attention for Video-grounded Dialogue](https://arxiv.org/pdf/2103.13361.pdf) 
+
+Junyeong Kim, **Sunjae Yoon**, Dahyun Kim, and Chang D. Yoo
+
+AAAI Association for the Advancement of Artificial Intelligence (**AAAI**), 2021
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2021</div><img src='images/icip2021.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL](https://ieeexplore.ieee.org/document/9506218) 
+
+[[code]](https://github.com/dbstjswo505/WMRN)
+
+**Sunjae Yoon** *, Dahyun Kim *, Ji Woo Hong, Junyeong Kim, Kookhoi Kim and Chang D. Yoo
+
+International Conference on Image Processing (**ICIP**), 2021
+
+</div>
+</div>
+
 ## 2020
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.png' alt="sym" width="100%"></div>
