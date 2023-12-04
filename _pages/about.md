@@ -51,7 +51,7 @@ Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.jpg' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
