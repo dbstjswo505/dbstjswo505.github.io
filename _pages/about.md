@@ -53,7 +53,7 @@ Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
 [*] equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/emnlp2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/emnlp2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
@@ -65,12 +65,24 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval
+
+**Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo
+
+International Conference on Computer Vision (**ICCV**) 2023
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval](https://arxiv.org/pdf/2008.10238.pdf)
 
-Minuk Ma*, **Sunjae Yoon***, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo
+Minuk Ma *, **Sunjae Yoon** *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo
 
 European Conference on Computer Vision (**ECCV**) 2020
 
