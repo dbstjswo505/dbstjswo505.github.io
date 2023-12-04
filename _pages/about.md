@@ -17,18 +17,41 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+# 😃 About me
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I graduated from the Daegu Gyeongbuk Institute of Science & Technology (DGIST) with a B.S. in Computer Engineering in 2019 and from Korea Advanced Institute of Science& Technology (KAIST) with a M.S. in Electric Engineering in 2021. I decided to continue my education and pursue a Ph.D. in the field of Artificial Intelligence/Deep Learning. I am currently working under the guidance of Professor [Chang D. Yoo](http://sanctusfactory.com/family.php), whose expertise and leadership have been invaluable to my research.
+
+My research focuses on the reliability of Artificial Intelligence/Deep Learning technologies for various modalities, including images, videos, and natural language. I am passionate about exploring the potential of these technologies and finding ways to improve their performance and reliability in real-world applications.
+
+# 🎏 Research Interests
+- Computer Vision
+- Natural Language Processing
+- Multi-modal Reasoning
+- Causality and Debiasing
+- Generative AI
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.12*: &nbsp;🏆 I got [Best Paper Award](https://ee.kaist.ac.kr/en/research-achieve/ph-d-candidate-sunjae-yoon-prof-chang-d-yoo-wins-best-paper-award/) in JKAIA 2023 
+- *2023.10*: &nbsp;🎉 One paper accepted to ICCV 2023 
+
+# 🏫 Education
+
+Mar.2021 - Current: __Ph.D candidate__ Electrical Engineering (KAIST)
+
+&emsp;Advisor: Prof. Chang D. Yoo
+
+Sep.2019 - Feb.2021: __M.S.__ Electrical Engineering (KAIST)
+
+&emsp;Thesis: "Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval"
+
+&emsp;Advisor: Prof. Chang D. Yoo
+
+Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
