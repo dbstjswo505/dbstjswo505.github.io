@@ -66,6 +66,17 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/emnlp2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
+
+**Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
+
+Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/iccv2023_.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -133,7 +144,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
 [SMSMix: Sense-Maintained Sentence Mixup for Word Sense Disambiguation](https://arxiv.org/pdf/2212.07072.pdf)
 
-**Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
+Hee Suk Yoon , Eunseop Yoon , John Harvill, **Sunjae Yoon**, Mark Hasegawa-Johnson, and Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
