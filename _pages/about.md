@@ -225,7 +225,7 @@ International Conference on Image Processing (**ICIP**), 2021
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval](https://arxiv.org/pdf/2008.10238.pdf)
+[**VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval**](https://arxiv.org/pdf/2008.10238.pdf)
 
 Minuk Ma *, **Sunjae Yoon** *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo
 
