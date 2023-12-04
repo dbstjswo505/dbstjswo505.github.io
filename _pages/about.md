@@ -53,6 +53,18 @@ Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
 [*] equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/emnlp2023.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
+
+**Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
+
+Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,24 +72,11 @@ Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
 Minuk Ma*, **Sunjae Yoon***, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+European Conference on Computer Vision (**ECCV**) 2020
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval](https://arxiv.org/pdf/2008.10238.pdf)
-
-Minuk Ma*, **Sunjae Yoon***, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* JKAIA 2023. 
