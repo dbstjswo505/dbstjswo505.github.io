@@ -55,7 +55,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 ## 2023
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/iccv2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/emnlp2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C11**] HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
