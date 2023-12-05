@@ -138,7 +138,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
 Hee Suk Yoon , Eunseop Yoon , John Harvill, **Sunjae Yoon**, Mark Hasegawa-Johnson, and Chang D. Yoo
 
-Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
+Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (short paper, findings)
 
 </div>
 </div>
@@ -197,7 +197,7 @@ MDPI Sensors, 2022
 
 ## 2021
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2022</div><img src='images/aaai2021.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2021</div><img src='images/aaai2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**Structured Co-reference Graph Attention for Video-grounded Dialogue**](https://arxiv.org/pdf/2103.13361.pdf) 
