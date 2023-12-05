@@ -72,7 +72,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
+[**SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
 
 **Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo
 
@@ -84,7 +84,7 @@ International Conference on Computer Vision (**ICCV**) 2023
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2023</div><img src='images/icassp2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval](https://ieeexplore.ieee.org/document/10095182)
+[**Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/10095182)
 
 **Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, Chang D. Yoo
 
@@ -96,7 +96,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2023</div><img src='images/access2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video](https://ieeexplore.ieee.org/document/10109716)
+[**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
 
 Ji Woo Hong, **Sunjae Yoon**, Junyeong Kim, Chang D. Yoo  
 
@@ -108,7 +108,7 @@ IEEE Access, 2023
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2023</div><img src='images/iclr2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[ESD: EXPECTED SQUARED DIFFERENCE AS A TUNING-FREE TRAINABLE CALIBRATION MEASURE](https://arxiv.org/pdf/2303.02472.pdf)
+[**ESD: EXPECTED SQUARED DIFFERENCE AS A TUNING-FREE TRAINABLE CALIBRATION MEASURE**](https://arxiv.org/pdf/2303.02472.pdf)
 
 Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, **Sunjae Yoon**, Gwangsu Kim, Yingzhen Li, Chang D. Yoo 
 
@@ -122,7 +122,7 @@ International Conference on Learning Representation (**ICLR**), 2023
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2022</div><img src='images/emnlp2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue](https://browse.arxiv.org/pdf/2212.05765.pdf)
+[**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**](https://browse.arxiv.org/pdf/2212.05765.pdf)
 
 **Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
 
@@ -134,7 +134,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2022</div><img src='images/emnlp2022_findings.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[SMSMix: Sense-Maintained Sentence Mixup for Word Sense Disambiguation](https://arxiv.org/pdf/2212.07072.pdf)
+[**SMSMix: Sense-Maintained Sentence Mixup for Word Sense Disambiguation**](https://arxiv.org/pdf/2212.07072.pdf)
 
 Hee Suk Yoon , Eunseop Yoon , John Harvill, **Sunjae Yoon**, Mark Hasegawa-Johnson, and Chang D. Yoo
 
@@ -146,7 +146,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2022</div><img src='images/eccv2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Selective Query-guided Debiasing for Video Corpus Moment Retrieval](https://arxiv.org/pdf/2210.08714.pdf) 
+[**Selective Query-guided Debiasing for Video Corpus Moment Retrieval**](https://arxiv.org/pdf/2210.08714.pdf) 
 
 [[code]](https://github.com/dbstjswo505/SQuiDNet)
 
@@ -160,7 +160,7 @@ European Conference on Computer Vision (**ECCV**) 2022
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2022</div><img src='images/access2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval](https://ieeexplore.ieee.org/document/9795270) 
+[**Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/9795270) 
 
 **Sunjae Yoon**, Dahyun Kim, Junyeong Kim, and Chang D. Yoo
 
@@ -169,10 +169,10 @@ IEEE Access 2022
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2022</div><img src='images/icassp2022.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2022</div><img src='images/icassp2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[SEMANTIC ASSOCIATION NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL](https://ieeexplore.ieee.org/document/9747523) 
+[**SEMANTIC ASSOCIATION NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9747523) 
 
 Dahyun Kim *, **Sunjae Yoon** *, Ji Woo Hong, and Chang D. Yoo
 
@@ -184,7 +184,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Sensors 2022</div><img src='images/sensors2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Dual-Scale Doppler Attention for Human Identification](https://www.mdpi.com/1424-8220/22/17/6363) 
+[**Dual-Scale Doppler Attention for Human Identification**](https://www.mdpi.com/1424-8220/22/17/6363) 
 
 [[code]](https://github.com/dbstjswo505/DSDA)
 
@@ -200,7 +200,7 @@ MDPI Sensors, 2022
 <div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2022</div><img src='images/aaai2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Structured Co-reference Graph Attention for Video-grounded Dialogue](https://arxiv.org/pdf/2103.13361.pdf) 
+[**Structured Co-reference Graph Attention for Video-grounded Dialogue**](https://arxiv.org/pdf/2103.13361.pdf) 
 
 Junyeong Kim, **Sunjae Yoon**, Dahyun Kim, and Chang D. Yoo
 
@@ -212,7 +212,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**), 2021
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2021</div><img src='images/icip2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL](https://ieeexplore.ieee.org/document/9506218) 
+[**WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9506218) 
 
 [[code]](https://github.com/dbstjswo505/WMRN)
 
@@ -237,15 +237,3 @@ European Conference on Computer Vision (**ECCV**) 2020
 </div>
 </div>
 
-
-# 🎖 Honors and Awards
-- *2021.10* JKAIA 2023. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
