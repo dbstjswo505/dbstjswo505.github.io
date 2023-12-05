@@ -60,7 +60,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 [**C11**] HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
 
-**Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
+**Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
 </div>
@@ -71,7 +71,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 
 [**C10**] [**SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
 
-**Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo
+**Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo
 
 International Conference on Computer Vision (**ICCV**) 2023
 
@@ -83,7 +83,7 @@ International Conference on Computer Vision (**ICCV**) 2023
 
 [**C9**] [**Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/10095182)
 
-**Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, Chang D. Yoo
+**Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo
 
 The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
 
@@ -95,7 +95,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 
 [**J3**] [**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
 
-Ji Woo Hong, **Sunjae Yoon**, Junyeong Kim, Chang D. Yoo  
+Ji Woo Hong, **Sunjae Yoon**, Junyeong Kim, and Chang D. Yoo  
 
 IEEE Access, 2023
 
@@ -107,7 +107,7 @@ IEEE Access, 2023
 
 [**C8**] [**ESD: EXPECTED SQUARED DIFFERENCE AS A TUNING-FREE TRAINABLE CALIBRATION MEASURE**](https://arxiv.org/pdf/2303.02472.pdf)
 
-Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, **Sunjae Yoon**, Gwangsu Kim, Yingzhen Li, Chang D. Yoo 
+Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, **Sunjae Yoon**, Gwangsu Kim, Yingzhen Li, and Chang D. Yoo 
 
 International Conference on Learning Representation (**ICLR**), 2023
 
@@ -121,7 +121,7 @@ International Conference on Learning Representation (**ICLR**), 2023
 
 [**C7**] [**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**](https://browse.arxiv.org/pdf/2212.05765.pdf)
 
-**Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
+**Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
