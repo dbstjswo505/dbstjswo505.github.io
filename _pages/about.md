@@ -37,17 +37,20 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 # 🏫 Education
 
-Mar.2021 - Current: __Ph.D candidate__ Electrical Engineering (KAIST)
+- Mar.2021 - Current: __Ph.D candidate__ Electrical Engineering (KAIST)
 
-&emsp;Advisor: Prof. Chang D. Yoo
+&emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
-Sep.2019 - Feb.2021: __M.S.__ Electrical Engineering (KAIST)
+- Sep.2019 - Feb.2021: __M.S.__ Electrical Engineering (KAIST)
 
-&emsp;Thesis: "Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval"
+&emsp;&emsp;&emsp;Thesis: "Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval"
 
-&emsp;Advisor: Prof. Chang D. Yoo
+&emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
-Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
+- Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
+
+# 💬 Invited Talks
+- *2023.05*, CAU-AI 핵심 기술세미나, Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
 # 📝 Publications 
 
@@ -243,9 +246,6 @@ European Conference on Computer Vision (**ECCV**) 2020
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
