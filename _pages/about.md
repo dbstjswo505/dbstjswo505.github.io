@@ -58,7 +58,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/emnlp2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
+[**C11**] HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
 
 **Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
 
@@ -69,7 +69,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2023</div><img src='images/iccv2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
+[**C10**] [**SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
 
 **Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, Chang D. Yoo
 
@@ -81,7 +81,7 @@ International Conference on Computer Vision (**ICCV**) 2023
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2023</div><img src='images/icassp2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/10095182)
+[**C9**] [**Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/10095182)
 
 **Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, Chang D. Yoo
 
@@ -93,7 +93,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2023</div><img src='images/access2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
+[**J3**] [**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
 
 Ji Woo Hong, **Sunjae Yoon**, Junyeong Kim, Chang D. Yoo  
 
@@ -105,7 +105,7 @@ IEEE Access, 2023
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2023</div><img src='images/iclr2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**ESD: EXPECTED SQUARED DIFFERENCE AS A TUNING-FREE TRAINABLE CALIBRATION MEASURE**](https://arxiv.org/pdf/2303.02472.pdf)
+[**C8**] [**ESD: EXPECTED SQUARED DIFFERENCE AS A TUNING-FREE TRAINABLE CALIBRATION MEASURE**](https://arxiv.org/pdf/2303.02472.pdf)
 
 Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, **Sunjae Yoon**, Gwangsu Kim, Yingzhen Li, Chang D. Yoo 
 
@@ -119,7 +119,7 @@ International Conference on Learning Representation (**ICLR**), 2023
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2022</div><img src='images/emnlp2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**](https://browse.arxiv.org/pdf/2212.05765.pdf)
+[**C7**] [**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**](https://browse.arxiv.org/pdf/2212.05765.pdf)
 
 **Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, Chang D. Yoo
 
@@ -131,7 +131,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2022</div><img src='images/emnlp2022_findings.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**SMSMix: Sense-Maintained Sentence Mixup for Word Sense Disambiguation**](https://arxiv.org/pdf/2212.07072.pdf)
+[**C6**] [**SMSMix: Sense-Maintained Sentence Mixup for Word Sense Disambiguation**](https://arxiv.org/pdf/2212.07072.pdf)
 
 Hee Suk Yoon , Eunseop Yoon , John Harvill, **Sunjae Yoon**, Mark Hasegawa-Johnson, and Chang D. Yoo
 
