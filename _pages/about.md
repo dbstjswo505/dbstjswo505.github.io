@@ -23,7 +23,7 @@ I graduated from the Daegu Gyeongbuk Institute of Science & Technology (DGIST) w
 
 My research focuses on the reliability of Artificial Intelligence/Deep Learning technologies for various modalities, including images, videos, and natural language. I am passionate about exploring the potential of these technologies and finding ways to improve their performance and reliability in real-world applications.
 
-# 🎏 Research Interests
+# 📌 Research Interests
 - Computer Vision
 - Natural Language Processing
 - Multi-modal Reasoning
@@ -48,9 +48,6 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
 - Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
-
-# 💬 Invited Talks
-- *2023.05*, CAU-AI 핵심 기술세미나, Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
 # 📝 Publications 
 
@@ -146,7 +143,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (short paper
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2022</div><img src='images/eccv2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Selective Query-guided Debiasing for Video Corpus Moment Retrieval**](https://arxiv.org/pdf/2210.08714.pdf) 
+[**C5**] [**Selective Query-guided Debiasing for Video Corpus Moment Retrieval**](https://arxiv.org/pdf/2210.08714.pdf) 
 
 [[code]](https://github.com/dbstjswo505/SQuiDNet)
 
@@ -160,7 +157,7 @@ European Conference on Computer Vision (**ECCV**) 2022
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2022</div><img src='images/access2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/9795270) 
+[**J2**] [**Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/9795270) 
 
 **Sunjae Yoon**, Dahyun Kim, Junyeong Kim, and Chang D. Yoo
 
@@ -172,7 +169,7 @@ IEEE Access 2022
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2022</div><img src='images/icassp2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**SEMANTIC ASSOCIATION NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9747523) 
+[**C4**] [**SEMANTIC ASSOCIATION NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9747523) 
 
 Dahyun Kim *, **Sunjae Yoon** *, Ji Woo Hong, and Chang D. Yoo
 
@@ -184,7 +181,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Sensors 2022</div><img src='images/sensors2022.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Dual-Scale Doppler Attention for Human Identification**](https://www.mdpi.com/1424-8220/22/17/6363) 
+[**J1**] [**Dual-Scale Doppler Attention for Human Identification**](https://www.mdpi.com/1424-8220/22/17/6363) 
 
 [[code]](https://github.com/dbstjswo505/DSDA)
 
@@ -200,7 +197,7 @@ MDPI Sensors, 2022
 <div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2021</div><img src='images/aaai2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**Structured Co-reference Graph Attention for Video-grounded Dialogue**](https://arxiv.org/pdf/2103.13361.pdf) 
+[**C3**] [**Structured Co-reference Graph Attention for Video-grounded Dialogue**](https://arxiv.org/pdf/2103.13361.pdf) 
 
 Junyeong Kim, **Sunjae Yoon**, Dahyun Kim, and Chang D. Yoo
 
@@ -212,7 +209,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**), 2021
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICIP 2021</div><img src='images/icip2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9506218) 
+[**C2**] [**WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9506218) 
 
 [[code]](https://github.com/dbstjswo505/WMRN)
 
@@ -228,7 +225,7 @@ International Conference on Image Processing (**ICIP**), 2021
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2020</div><img src='images/eccv2020.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**C1** [**VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval**](https://arxiv.org/pdf/2008.10238.pdf)
+[**C1**] [**VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval**](https://arxiv.org/pdf/2008.10238.pdf)
 
 Minuk Ma *, **Sunjae Yoon** *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo
 
@@ -237,3 +234,50 @@ European Conference on Computer Vision (**ECCV**) 2020
 </div>
 </div>
 
+# Academic Activities
+
+# 💬 Invited Talks
+- *2023.05*, CAU-AI 핵심 기술세미나, Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
+
+# 🏆 Awards
+
+- Best Paper Award, Winter Conference, JKAIA, (2023.11)
+
+- ‘Governor citation’ from the governor of DAEGU CITY DALSEONG GUN (2019.02)
+
+- Award Bronze Prize for International University Creative Car Competition (Autonomous driving) by Korea Transportation Safety Authority, (2018.05)
+
+- Award Excellence Prize in Autonomous Vehicle Creation Technology by Korea Auto Vehicle Safety Association, (2018.05)
+
+# 📑 Reviewer
+
+**Confernce**
+
+- Neural Information Processing Systems (**Neurips**): 2023
+
+- IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) : 2022, 2023, 2024
+
+- European Conference on Computer Vision (**ECCV**): 2022
+
+- IEEE International Conference on Computer Vision (**ICCV**) : 2023
+
+- Association for Computational Linguistics (**ACL**): 2023
+
+- Empirical Methods on Natural Language Processing (**EMNLP**): 2022, 2023
+
+- International Conference on Learning Representations (**ICLR**): 2024
+
+- International Conference on Acoustics, Speech & Signal Processing (**ICASSP**): 2023, 2024
+
+- IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**): 2023, 2024
+
+**Journal**
+- IEEE Transactions on Big Data
+
+# 🎏 Patent
+
+- Selective Query-guided Debiasing for Video Corpus Moment Retrieval No. KR 10-2022-0154621 (2022-11-17)
+
+- WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL No. KR 10-2021-0172582 (2021-12-06)
+
+- Artificial Intelligence-based Radar Target Detection System No. KR 10-2021-0013581 (2021-01-29)
