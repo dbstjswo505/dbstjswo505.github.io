@@ -55,7 +55,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 ## 2023
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/emnlp2023.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/iccv2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C11**] HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
@@ -267,7 +267,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - International Conference on Learning Representations (**ICLR**): 2024
 
-- International Conference on Acoustics, Speech & Signal Processing (**ICASSP**): 2023, 2024
+- International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2023, 2024
 
 - IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**): 2023, 2024
 
