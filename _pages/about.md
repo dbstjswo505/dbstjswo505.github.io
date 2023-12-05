@@ -21,7 +21,7 @@ redirect_from:
 
 I graduated from the Daegu Gyeongbuk Institute of Science & Technology (DGIST) with a B.S. in Computer Engineering in 2019 and from Korea Advanced Institute of Science& Technology (KAIST) with a M.S. in Electric Engineering in 2021. I decided to continue my education and pursue a Ph.D. in the field of Artificial Intelligence/Deep Learning. I am currently working under the guidance of Professor [Chang D. Yoo](http://sanctusfactory.com/family.php), whose expertise and leadership have been invaluable to my research.
 
-My research focuses on the reliability of Artificial Intelligence/Deep Learning technologies for various modalities, including images, videos, and natural language. I am passionate about exploring the potential of these technologies and finding ways to improve their performance and reliability in real-world applications.
+My research focuses on the reliability of Artificial Intelligence/Deep Learning technologies for various modalities, including images, videos, and natural language. I am passionate about exploring the potential of these technologies and finding ways to improve their performance and reliability in real-world applications. Here is [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing) for more information about me.
 
 # 📌 Research Interests
 - Computer Vision
