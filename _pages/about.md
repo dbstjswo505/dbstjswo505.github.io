@@ -63,7 +63,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 Hyun Ryu, **Sunjae Yoon**, Hee Suk Yoon, Eunseop Yoon, and Chang D. Yoo
 
-Empirical Methods in Natural Language Processing (**AAAI**) 2024
+AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 </div>
 </div>
 
