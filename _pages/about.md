@@ -32,6 +32,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉 One paper accepted to AAAI 2024 
 - *2023.11*: &nbsp;🏆 I got [Best Paper Award](https://ee.kaist.ac.kr/en/research-achieve/ph-d-candidate-sunjae-yoon-prof-chang-d-yoo-wins-best-paper-award/) in JKAIA 2023 
 - *2023.10*: &nbsp;🎉 One paper accepted to ICCV 2023 
 
@@ -52,6 +53,19 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 # 📝 Publications 
 
 [*] equal contribution
+
+## 2024
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2024</div><img src='images/aaai2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C12**] SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation
+
+Hyun Ryu, **Sunjae Yoon**, Hee Suk Yoon, Eunseop Yoon, and Chang D. Yoo
+
+Empirical Methods in Natural Language Processing (**AAAI**) 2024
+</div>
+</div>
 
 ## 2023
 
