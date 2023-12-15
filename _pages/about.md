@@ -71,7 +71,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 <div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2024</div><img src='images/aaai2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C12**] [SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation](https://arxiv.org/pdf/2312.05790.pdf)
+[**C12**] [**SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation**](https://arxiv.org/pdf/2312.05790.pdf)
 
 Hyun Ryu, **Sunjae Yoon**, Hee Suk Yoon, Eunseop Yoon, and Chang D. Yoo
 
