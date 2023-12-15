@@ -32,6 +32,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
+- *2023.12*: &nbsp;🎉 One paper accepted to ICASSP 2024 
 - *2023.12*: &nbsp;🎉 One paper accepted to AAAI 2024 
 - *2023.11*: &nbsp;🏆 I got [Best Paper Award](https://ee.kaist.ac.kr/en/research-achieve/ph-d-candidate-sunjae-yoon-prof-chang-d-yoo-wins-best-paper-award/) in JKAIA 2023 
 - *2023.10*: &nbsp;🎉 One paper accepted to ICCV 2023 
