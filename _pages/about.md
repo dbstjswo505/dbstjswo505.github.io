@@ -76,6 +76,8 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 Hyun Ryu, **Sunjae Yoon**, Hee Suk Yoon, Eunseop Yoon, and Chang D. Yoo
 
 AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
+
+[[code]](https://github.com/Hyun-Ryu/simpsi)
 </div>
 </div>
 
@@ -89,6 +91,8 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 **Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
+
+[[code]](https://github.com/dbstjswo505/HEAR)
 </div>
 </div>
 
