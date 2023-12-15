@@ -56,10 +56,21 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 ## 2024
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/icassp2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C13**] WAVELET-GUIDED ACCELERATION OF TEXT INVERSION IN DIFFUSION-BASED IMAGE EDITING
+
+Gwanhyeong Koo, **Sunjae Yoon**, Chang D. Yoo
+
+AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2024</div><img src='images/aaai2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C12**] SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation
+[**C12**] [SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation](https://arxiv.org/pdf/2312.05790.pdf)
 
 Hyun Ryu, **Sunjae Yoon**, Hee Suk Yoon, Eunseop Yoon, and Chang D. Yoo
 
@@ -72,7 +83,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2023</div><img src='images/hear.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C11**] HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue
+[**C11**] [**HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue**](https://aclanthology.org/2023.findings-emnlp.797.pdf)
 
 **Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
 
