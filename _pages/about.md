@@ -64,7 +64,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 Gwanhyeong Koo, **Sunjae Yoon**, Chang D. Yoo
 
-AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
+The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
 </div>
 </div>
 
