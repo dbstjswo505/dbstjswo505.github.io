@@ -64,7 +64,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 **Sunjae Yoon**, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo
 
-The International Conference on Acoustics, Speech and Signal Processing (**IEEE Access**), 2024
+IEEE Access, 2023
 </div>
 </div>
 
