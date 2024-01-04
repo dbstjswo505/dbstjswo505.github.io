@@ -51,6 +51,20 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 - Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
+# 📎 Selected Publications 
+
+[**1**] **Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo, "HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
+
+[**2**] **Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo "SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval", International Conference on Computer Vision (**ICCV**) 2023
+
+[**3**] **Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo, "Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval", The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
+
+[**4**] **Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo "Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
+
+[**5**] **Sunjae Yoon**, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo, "Selective Query-guided Debiasing for Video Corpus Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2022
+
+[**6**] Minuk Ma *, **Sunjae Yoon** *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
+
 # 📝 Publications 
 
 [*] equal contribution
