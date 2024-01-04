@@ -32,10 +32,10 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉 One paper accepted to IEEE Access 2024
 - *2023.12*: &nbsp;🎉 One paper accepted to ICASSP 2024 
 - *2023.12*: &nbsp;🎉 One paper accepted to AAAI 2024 
 - *2023.11*: &nbsp;🏆 I got [Best Paper Award](https://ee.kaist.ac.kr/en/research-achieve/ph-d-candidate-sunjae-yoon-prof-chang-d-yoo-wins-best-paper-award/) in JKAIA 2023 
-- *2023.10*: &nbsp;🎉 One paper accepted to ICCV 2023 
 
 # 🏫 Education
 
@@ -56,6 +56,17 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 [*] equal contribution
 
 ## 2024
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2024</div><img src='images/access2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J4**] Causal Localization Network for Radar Human Localization with micro-Doppler signature
+
+**Sunjae Yoon**, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo
+
+The International Conference on Acoustics, Speech and Signal Processing (**IEEE Access**), 2024
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/icassp2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
