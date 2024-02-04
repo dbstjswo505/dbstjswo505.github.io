@@ -74,18 +74,20 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2024</div><img src='images/access2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**J4**] Causal Localization Network for Radar Human Localization with micro-Doppler signature
+[**J4**] [**Causal Localization Network for Radar Human Localization with micro-Doppler signature**](https://ieeexplore.ieee.org/document/10387441)
 
 **Sunjae Yoon**, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo
 
-IEEE Access, 2023
+[[code]](https://github.com/dbstjswo505/CLNet)
+
+IEEE Access, 2024
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICASSP 2024</div><img src='images/icassp2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C13**] WAVELET-GUIDED ACCELERATION OF TEXT INVERSION IN DIFFUSION-BASED IMAGE EDITING
+[**C13**] [**WAVELET-GUIDED ACCELERATION OF TEXT INVERSION IN DIFFUSION-BASED IMAGE EDITING**](https://arxiv.org/abs/2401.09794)
 
 Gwanhyeong Koo, **Sunjae Yoon**, Chang D. Yoo
 
