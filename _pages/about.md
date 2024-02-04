@@ -32,10 +32,10 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
+- *2024.01*: &nbsp;🎉 제 30회 삼성휴먼테크논문대상 장려상 수상
 - *2024.01*: &nbsp;🎉 One paper accepted to IEEE Access 2024
 - *2023.12*: &nbsp;🎉 One paper accepted to ICASSP 2024 
 - *2023.12*: &nbsp;🎉 One paper accepted to AAAI 2024 
-- *2023.11*: &nbsp;🏆 I got [Best Paper Award](https://ee.kaist.ac.kr/en/research-achieve/ph-d-candidate-sunjae-yoon-prof-chang-d-yoo-wins-best-paper-award/) in JKAIA 2023 
 
 # 🏫 Education
 
@@ -312,11 +312,11 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) : 2022, 2023, 2024
 
-- European Conference on Computer Vision (**ECCV**): 2022
+- European Conference on Computer Vision (**ECCV**): 2022, 2024
 
 - IEEE International Conference on Computer Vision (**ICCV**) : 2023
 
-- Association for Computational Linguistics (**ACL**): 2023
+- Association for Computational Linguistics (**ACL**): 2023, 2024
 
 - Empirical Methods on Natural Language Processing (**EMNLP**): 2022, 2023
 
