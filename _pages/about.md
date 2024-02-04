@@ -32,7 +32,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉 제 30회 삼성휴먼테크논문대상 장려상 수상
+- *2024.02*: &nbsp;🎉 제 30회 삼성휴먼테크논문대상 장려상 수상
 - *2024.01*: &nbsp;🎉 One paper accepted to IEEE Access 2024
 - *2023.12*: &nbsp;🎉 One paper accepted to ICASSP 2024 
 - *2023.12*: &nbsp;🎉 One paper accepted to AAAI 2024 
@@ -295,6 +295,8 @@ European Conference on Computer Vision (**ECCV**) 2020
 - *2023.05*, CAU-AI 핵심 기술세미나, Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
 # 🏆 Awards
+
+- 제 30회 삼성휴먼테크논문대상 장려상 수상 (2024.02)
 
 - Best Paper Award, Winter Conference, JKAIA, (2023.11)
 
