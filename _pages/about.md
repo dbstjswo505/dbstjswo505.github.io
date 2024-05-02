@@ -84,7 +84,7 @@ ICML, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICPRAI 2024</div><img src='images/icprai2024.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICPRAI 2024</div><img src='images/icprai_2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C14**] **Character Identifying Video Language Alignment Network for Weakly-Supervised Video-Subtitle Moment Retrieval**
