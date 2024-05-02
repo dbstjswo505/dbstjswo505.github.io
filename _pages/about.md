@@ -32,10 +32,10 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉 One paper accepted to ICML 2024
 - *2024.02*: &nbsp;🎉 제 30회 삼성휴먼테크논문대상 장려상 수상
 - *2024.01*: &nbsp;🎉 One paper accepted to IEEE Access 2024
 - *2023.12*: &nbsp;🎉 One paper accepted to ICASSP 2024 
-- *2023.12*: &nbsp;🎉 One paper accepted to AAAI 2024 
 
 # 🏫 Education
 
@@ -52,24 +52,48 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 - Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
 # 📎 Selected Publications 
+[**1**] **Sunjae Yoon**, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo, "FRAG: Frequency Adaptive Group for Diffusion Video Editing", International Conference on Machine Learning (**ICML**) 2024
 
-[**1**] **Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo, "HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
+[**2**] **Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo, "HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
 
-[**2**] **Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo "SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval", International Conference on Computer Vision (**ICCV**) 2023
+[**3**] **Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo "SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval", International Conference on Computer Vision (**ICCV**) 2023
 
-[**3**] **Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo, "Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval", The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
+[**4**] **Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo, "Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval", The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
 
-[**4**] **Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo "Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
+[**5**] **Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo "Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
-[**5**] **Sunjae Yoon**, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo, "Selective Query-guided Debiasing for Video Corpus Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2022
+[**6**] **Sunjae Yoon**, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo, "Selective Query-guided Debiasing for Video Corpus Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2022
 
-[**6**] Minuk Ma *, **Sunjae Yoon** *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
+[**7**] Minuk Ma *, **Sunjae Yoon** *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
 
 # 📝 Publications 
 
 [*] equal contribution
 
 ## 2024
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2024</div><img src='images/icml2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C15**] **FRAG: Frequency Adapting Group for Diffusion Video Editing**
+
+**Sunjae Yoon**, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo
+
+ICML, 2024
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICPRAI 2024</div><img src='images/icprai2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C14**] **Character Identifying Video Language Alignment Network for Weakly-Supervised Video-Subtitle Moment Retrieval**
+
+Donghoon Lee ∗, Jun Yeop Shim ∗, **SunJae Yoon**, and Chang D Yoo
+
+ICPRAI, 2024
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2024</div><img src='images/access2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
