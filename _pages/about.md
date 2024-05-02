@@ -79,7 +79,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 **Sunjae Yoon**, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo
 
-ICML, 2024
+International Conference on Machine Learning (**ICML**), 2024
 
 </div>
 </div>
@@ -91,7 +91,7 @@ ICML, 2024
 
 Donghoon Lee ∗, Jun Yeop Shim ∗, **SunJae Yoon**, and Chang D Yoo
 
-ICPRAI, 2024
+International Conference on Pattern Recognition and Artificial Intelligence (**ICPRAI**), 2024
 </div>
 </div>
 
