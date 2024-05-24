@@ -336,7 +336,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 **Confernce**
 
-- Neural Information Processing Systems (**Neurips**): 2023
+- Neural Information Processing Systems (**Neurips**): 2023, 2024
 
 - IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) : 2022, 2023, 2024
 
@@ -346,7 +346,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - Association for Computational Linguistics (**ACL**): 2023, 2024
 
-- Empirical Methods on Natural Language Processing (**EMNLP**): 2022, 2023
+- Empirical Methods on Natural Language Processing (**EMNLP**): 2022, 2023, 2024
 
 - International Conference on Learning Representations (**ICLR**): 2024
 
