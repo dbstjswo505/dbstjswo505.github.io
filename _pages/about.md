@@ -89,7 +89,7 @@ European Conference on Computer Vision (**ECCV**) 2024
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/eccv2024_2.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C16**] **FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**
+[**C16**] [**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**](https://arxiv.org/abs/2407.17850)
 
 Gwanhyeong Koo, **Sunjae Yoon**, Ji Woo Hong, and Chang D. Yoo
 
@@ -362,25 +362,27 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 **Confernce**
 
-- Neural Information Processing Systems (**Neurips**): 2023, 2024
+- Neural Information Processing Systems (**Neurips**): 2023 ~ 
 
-- IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) : 2022 - 2024
+- IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**) : 2022 ~
 
-- European Conference on Computer Vision (**ECCV**): 2022, 2024
+- European Conference on Computer Vision (**ECCV**): 2022 ~
 
-- IEEE International Conference on Computer Vision (**ICCV**) : 2023
+- IEEE International Conference on Computer Vision (**ICCV**) : 2023 ~
 
-- Association for Computational Linguistics (**ACL**): 2023, 2024
+- The Association for the Advancement of Artificial Intelligence (**AAAI**) : 2025 ~
 
-- Empirical Methods on Natural Language Processing (**EMNLP**): 2022 - 2024
+- Association for Computational Linguistics (**ACL**): 2023 ~
 
-- International Conference on Learning Representations (**ICLR**): 2024
+- Empirical Methods on Natural Language Processing (**EMNLP**): 2022 ~
 
-- International Conference on Machine Learning (**ICML**): 2024
+- International Conference on Learning Representations (**ICLR**): 2024 ~
 
-- International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2023, 2024
+- International Conference on Machine Learning (**ICML**): 2024 ~
 
-- IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**): 2023 - 2025
+- International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2023 ~ 
+
+- IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**): 2023 ~
 
 **Journal**
 - IEEE Transactions on Big Data
