@@ -107,7 +107,7 @@ European Conference on Computer Vision (**ECCV**) 2024
 
 International Conference on Machine Learning (**ICML**), 2024
 
-[[code]](https://github.com/dbstjswo505/FRAG)
+[[code]](https://github.com/dbstjswo505/FRAG) [[page]](https://dbstjswo505.github.io/FRAG-page)
 
 </div>
 </div>
