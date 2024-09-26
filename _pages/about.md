@@ -52,23 +52,23 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 - Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
 # 📎 Selected Publications 
-[**9**] **Sunjae Yoon**, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo, "TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation", Neural Information Processing Systems (**Neurips**) 2024
+[**9**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo, "TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation", Neural Information Processing Systems (**Neurips**) 2024
 
-[**8**] **Sunjae Yoon**, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo, "Dilutional Noise Initialization for Diffusion Video Editing", European Conference on Computer Vision (**ECCV**) 2024
+[**8**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo, "Dilutional Noise Initialization for Diffusion Video Editing", European Conference on Computer Vision (**ECCV**) 2024
 
-[**7**] **Sunjae Yoon**, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo, "FRAG: Frequency Adaptive Group for Diffusion Video Editing", International Conference on Machine Learning (**ICML**) 2024
+[**7**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo, "FRAG: Frequency Adaptive Group for Diffusion Video Editing", International Conference on Machine Learning (**ICML**) 2024
 
-[**6**] **Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo, "HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
+[**6**] <span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo, "HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
 
-[**5**] **Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo "SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval", International Conference on Computer Vision (**ICCV**) 2023
+[**5**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo "SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval", International Conference on Computer Vision (**ICCV**) 2023
 
-[**4**] **Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo, "Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval", The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
+[**4**] <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo, "Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval", The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
 
-[**3**] **Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo "Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
+[**3**] <span style="color:royalblue">**Sunjae Yoon** </span>, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo "Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
-[**2**] **Sunjae Yoon**, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo, "Selective Query-guided Debiasing for Video Corpus Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2022
+[**2**] <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo, "Selective Query-guided Debiasing for Video Corpus Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2022
 
-[**1**] Minuk Ma *, **Sunjae Yoon** *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
+[**1**] Minuk Ma *, <span style="color:royalblue">**Sunjae Yoon** </span> *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
 
 # 📝 Publications 
 
@@ -81,7 +81,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 [**C18**] **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**
 
-**Sunjae Yoon**, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo
 
 Neural Information Processing Systems (**Neurips**) 2024
 
@@ -93,7 +93,7 @@ Neural Information Processing Systems (**Neurips**) 2024
 
 [**C17**] [**Dilutional Noise Initialization for Dilution Video Editing**](https://arxiv.org/abs/2409.13037v1)
 
-**Sunjae Yoon**, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo
 
 European Conference on Computer Vision (**ECCV**) 2024
 
@@ -105,7 +105,7 @@ European Conference on Computer Vision (**ECCV**) 2024
 
 [**C16**] [**FlexiEdit: Frequency-Aware Latent Refinement for Enhanced Non-Rigid Editing**](https://arxiv.org/abs/2407.17850)
 
-Gwanhyeong Koo, **Sunjae Yoon**, Ji Woo Hong, and Chang D. Yoo
+Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, and Chang D. Yoo
 
 European Conference on Computer Vision (**ECCV**) 2024
 
@@ -117,7 +117,7 @@ European Conference on Computer Vision (**ECCV**) 2024
 
 [**C15**] [**FRAG: Frequency Adapting Group for Diffusion Video Editing**](https://arxiv.org/pdf/2406.06044)
 
-**Sunjae Yoon**, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo
 
 International Conference on Machine Learning (**ICML**), 2024
 
@@ -131,7 +131,7 @@ International Conference on Machine Learning (**ICML**), 2024
 
 [**C14**] **Character Identifying Video Language Alignment Network for Weakly-Supervised Video-Subtitle Moment Retrieval**
 
-Donghoon Lee ∗, Jun Yeop Shim ∗, **SunJae Yoon**, and Chang D Yoo
+Donghoon Lee ∗, Jun Yeop Shim ∗, <span style="color:royalblue">**Sunjae Yoon** </span>, and Chang D Yoo
 
 International Conference on Pattern Recognition and Artificial Intelligence (**ICPRAI**), 2024, **Oral**
 </div>
@@ -142,7 +142,7 @@ International Conference on Pattern Recognition and Artificial Intelligence (**I
 
 [**J4**] [**Causal Localization Network for Radar Human Localization with micro-Doppler signature**](https://ieeexplore.ieee.org/document/10387441)
 
-**Sunjae Yoon**, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo
 
 [[code]](https://github.com/dbstjswo505/CLNet)
 
@@ -155,7 +155,7 @@ IEEE Access, 2024
 
 [**C13**] [**WAVELET-GUIDED ACCELERATION OF TEXT INVERSION IN DIFFUSION-BASED IMAGE EDITING**](https://arxiv.org/abs/2401.09794)
 
-Gwanhyeong Koo, **Sunjae Yoon**, Chang D. Yoo
+Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Chang D. Yoo
 
 The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
 </div>
@@ -166,7 +166,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 
 [**C12**] [**SimPSI: A Simple Strategy to Preserve Spectral Information in Time Series Data Augmentation**](https://arxiv.org/pdf/2312.05790.pdf)
 
-Hyun Ryu, **Sunjae Yoon**, Hee Suk Yoon, Eunseop Yoon, and Chang D. Yoo
+Hyun Ryu, <span style="color:royalblue">**Sunjae Yoon** </span>, Hee Suk Yoon, Eunseop Yoon, and Chang D. Yoo
 
 AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 
@@ -181,7 +181,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 
 [**C11**] [**HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue**](https://aclanthology.org/2023.findings-emnlp.797.pdf)
 
-**Sunjae Yoon**, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
 
@@ -194,7 +194,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 
 [**C10**] [**SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval**](https://openaccess.thecvf.com/content/ICCV2023/papers/Yoon_SCANet_Scene_Complexity_Aware_Network_for_Weakly-Supervised_Video_Moment_Retrieval_ICCV_2023_paper.pdf)
 
-**Sunjae Yoon**, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo
 
 International Conference on Computer Vision (**ICCV**) 2023
 
@@ -206,7 +206,7 @@ International Conference on Computer Vision (**ICCV**) 2023
 
 [**C9**] [**Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/10095182)
 
-**Sunjae Yoon**, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo
 
 The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
 
@@ -218,7 +218,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 
 [**J3**] [**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
 
-Ji Woo Hong, **Sunjae Yoon**, Junyeong Kim, and Chang D. Yoo  
+Ji Woo Hong, <span style="color:royalblue">**Sunjae Yoon** </span>, Junyeong Kim, and Chang D. Yoo  
 
 IEEE Access, 2023
 
@@ -230,7 +230,7 @@ IEEE Access, 2023
 
 [**C8**] [**ESD: EXPECTED SQUARED DIFFERENCE AS A TUNING-FREE TRAINABLE CALIBRATION MEASURE**](https://arxiv.org/pdf/2303.02472.pdf)
 
-Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, **Sunjae Yoon**, Gwangsu Kim, Yingzhen Li, and Chang D. Yoo 
+Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, <span style="color:royalblue">**Sunjae Yoon** </span>, Gwangsu Kim, Yingzhen Li, and Chang D. Yoo 
 
 International Conference on Learning Representation (**ICLR**), 2023
 
@@ -244,7 +244,7 @@ International Conference on Learning Representation (**ICLR**), 2023
 
 [**C7**] [**Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue**](https://browse.arxiv.org/pdf/2212.05765.pdf)
 
-**Sunjae Yoon**, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
@@ -256,7 +256,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
 
 [**C6**] [**SMSMix: Sense-Maintained Sentence Mixup for Word Sense Disambiguation**](https://arxiv.org/pdf/2212.07072.pdf)
 
-Hee Suk Yoon , Eunseop Yoon , John Harvill, **Sunjae Yoon**, Mark Hasegawa-Johnson, and Chang D. Yoo
+Hee Suk Yoon , Eunseop Yoon , John Harvill, <span style="color:royalblue">**Sunjae Yoon** </span>, Mark Hasegawa-Johnson, and Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (short paper, findings)
 
@@ -270,7 +270,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (short paper
 
 [[code]](https://github.com/dbstjswo505/SQuiDNet)
 
-**Sunjae Yoon**, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo
 
 European Conference on Computer Vision (**ECCV**) 2022
 
@@ -282,7 +282,7 @@ European Conference on Computer Vision (**ECCV**) 2022
 
 [**J2**] [**Cascaded MPN: Cascaded Moment Proposal Network for Video Corpus Moment Retrieval**](https://ieeexplore.ieee.org/document/9795270) 
 
-**Sunjae Yoon**, Dahyun Kim, Junyeong Kim, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Junyeong Kim, and Chang D. Yoo
 
 IEEE Access 2022
 
@@ -294,7 +294,7 @@ IEEE Access 2022
 
 [**C4**] [**SEMANTIC ASSOCIATION NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9747523) 
 
-Dahyun Kim *, **Sunjae Yoon** *, Ji Woo Hong, and Chang D. Yoo
+Dahyun Kim *, <span style="color:royalblue">**Sunjae Yoon** </span> *, Ji Woo Hong, and Chang D. Yoo
 
 The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022. **Oral**
 
@@ -308,7 +308,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 
 [[code]](https://github.com/dbstjswo505/DSDA)
 
-**Sunjae Yoon**, Dahyun Kim, Ji Woo Hong, and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Ji Woo Hong, and Chang D. Yoo
 
 MDPI Sensors, 2022
 
@@ -322,7 +322,7 @@ MDPI Sensors, 2022
 
 [**C3**] [**Structured Co-reference Graph Attention for Video-grounded Dialogue**](https://arxiv.org/pdf/2103.13361.pdf) 
 
-Junyeong Kim, **Sunjae Yoon**, Dahyun Kim, and Chang D. Yoo
+Junyeong Kim, <span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, and Chang D. Yoo
 
 AAAI Association for the Advancement of Artificial Intelligence (**AAAI**), 2021
 
@@ -336,7 +336,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**), 2021
 
 [[code]](https://github.com/dbstjswo505/WMRN)
 
-**Sunjae Yoon** *, Dahyun Kim *, Ji Woo Hong, Junyeong Kim, Kookhoi Kim and Chang D. Yoo
+<span style="color:royalblue">**Sunjae Yoon** </span> *, Dahyun Kim *, Ji Woo Hong, Junyeong Kim, Kookhoi Kim and Chang D. Yoo
 
 International Conference on Image Processing (**ICIP**), 2021
 
@@ -350,7 +350,7 @@ International Conference on Image Processing (**ICIP**), 2021
 
 [**C1**] [**VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval**](https://arxiv.org/pdf/2008.10238.pdf)
 
-Minuk Ma *, **Sunjae Yoon** *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo
+Minuk Ma *, <span style="color:royalblue">**Sunjae Yoon** </span> *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo
 
 European Conference on Computer Vision (**ECCV**) 2020
 
