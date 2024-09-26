@@ -52,7 +52,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 - Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
 
 # 📎 Selected Publications 
-[**9**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo, "TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation", Neural Information Processing Systems (**Neurips**) 2024
+[**9**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo, "TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation", Neural Information Processing Systems (**NeurIPS**) 2024
 
 [**8**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo, "Dilutional Noise Initialization for Diffusion Video Editing", European Conference on Computer Vision (**ECCV**) 2024
 
@@ -83,7 +83,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo
 
-Neural Information Processing Systems (**Neurips**) 2024
+Neural Information Processing Systems (**NeurIPS**) 2024
 
 </div>
 </div>
