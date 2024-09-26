@@ -32,10 +32,10 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉 One paper accepted to Neurips 2024
 - *2024.07*: &nbsp;🎉 Two papers accepted to ECCV 2024
 - *2024.05*: &nbsp;🎉 One paper accepted to ICML 2024
 - *2024.02*: &nbsp;🎉 제 30회 삼성휴먼테크논문대상 장려상 수상
-- *2024.01*: &nbsp;🎉 One paper accepted to IEEE Access 2024
 
 # 🏫 Education
 
@@ -74,10 +74,22 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 ## 2024
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Neurips 2024</div><img src='images/neurips2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C18**] **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**
+
+**Sunjae Yoon**, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo
+
+Neural Information Processing Systems (**Neurips**) 2024
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/eccv2024_1.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C17**] **Dilutional Noise Initialization for Dilution Video Editing**
+[**C17**] [**Dilutional Noise Initialization for Dilution Video Editing**](https://arxiv.org/abs/2409.13037v1)
 
 **Sunjae Yoon**, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo
 
