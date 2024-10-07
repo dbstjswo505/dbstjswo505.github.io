@@ -366,7 +366,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - 30th Samsung HumanTech Paper Award, encouragement prize ($1,500) (2024.02)
 
-- Winner of Best Paper Award, Winter Conference of JKAIA, ($1,500), (2023.11)
+- Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA), ($1,500), (2023.11)
 
 - ‘Governor citation’ from the governor of DAEGU CITY DALSEONG GUN (2019.02)
 
