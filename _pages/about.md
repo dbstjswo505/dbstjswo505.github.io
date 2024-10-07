@@ -35,7 +35,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 - *2024.09*: &nbsp;🎉 One paper accepted to Neurips 2024
 - *2024.07*: &nbsp;🎉 Two papers accepted to ECCV 2024
 - *2024.05*: &nbsp;🎉 One paper accepted to ICML 2024
-- *2024.02*: &nbsp;🎉 제 30회 삼성휴먼테크논문대상 장려상 수상
+- *2024.02*: &nbsp;🎉 30th Samsung HumanTech Paper Award, encouragement prize ($1,500)
 
 # 🏫 Education
 
@@ -364,9 +364,9 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 # 🏆 Awards
 
-- 제 30회 삼성휴먼테크논문대상 장려상 수상 (2024.02)
+- 30th Samsung HumanTech Paper Award, encouragement prize ($1,500) (2024.02)
 
-- Best Paper Award, Winter Conference, JKAIA, (2023.11)
+- Winner of Best Paper Award, Winter Conference of JKAIA, ($1,500), (2023.11)
 
 - ‘Governor citation’ from the governor of DAEGU CITY DALSEONG GUN (2019.02)
 
