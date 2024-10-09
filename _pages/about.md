@@ -403,6 +403,8 @@ European Conference on Computer Vision (**ECCV**) 2020
 **Journal**
 - IEEE Transactions on Big Data
 
+- IEEE Transactions on Circuits and Systems for Video Technology
+
 # 🎏 Patent
 
 - Selective Query-guided Debiasing for Video Corpus Moment Retrieval No. KR 10-2022-0154621 (2022-11-17)
