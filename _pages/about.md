@@ -32,10 +32,10 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉 Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon, 1st Prize ($2,000)
 - *2024.09*: &nbsp;🎉 One paper accepted to Neurips 2024
 - *2024.07*: &nbsp;🎉 Two papers accepted to ECCV 2024
 - *2024.05*: &nbsp;🎉 One paper accepted to ICML 2024
-- *2024.02*: &nbsp;🎉 30th Samsung HumanTech Paper Award, encouragement prize ($1,500)
 
 # 🏫 Education
 
@@ -363,6 +363,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 - *2023.05*, CAU-AI 핵심 기술세미나, Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
 # 🏆 Awards
+- Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award, 1st Prize ($2,000) (2024.10)
 
 - 30th Samsung HumanTech Paper Award, encouragement prize ($1,500) (2024.02)
 
@@ -399,6 +400,8 @@ European Conference on Computer Vision (**ECCV**) 2020
 - International Conference on Acoustics, Speech, and Signal Processing (**ICASSP**): 2023 ~ 
 
 - IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**): 2023 ~
+
+- International Conference on Artificial Intelligence and Statistics (**AISTATS**): 2025 ~
 
 **Journal**
 - IEEE Transactions on Big Data
