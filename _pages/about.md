@@ -79,7 +79,7 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Neurips 2024</div><img src='images/neurips2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C18**] **TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**
+[**C18**] [**TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation**](https://arxiv.org/abs/2410.24037)
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo
 
