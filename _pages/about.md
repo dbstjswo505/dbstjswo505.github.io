@@ -135,7 +135,7 @@ International Conference on Machine Learning (**ICML**), 2024
 
 Donghoon Lee ∗, Jun Yeop Shim ∗, <span style="color:royalblue">**Sunjae Yoon** </span>, and Chang D Yoo
 
-International Conference on Pattern Recognition and Artificial Intelligence (**ICPRAI**), 2024, **Oral**
+International Conference on Pattern Recognition and Artificial Intelligence (**ICPRAI**), 2024, <span style="color:#8B0000">**Oral**</span>
 </div>
 </div>
 
@@ -212,7 +212,7 @@ International Conference on Computer Vision (**ICCV**) 2023
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo
 
-The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
+The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, <span style="color:#8B0000">**Oral**</span>
 
 </div>
 </div>
@@ -300,7 +300,7 @@ IEEE Access 2022
 
 Dahyun Kim *, <span style="color:royalblue">**Sunjae Yoon** </span> *, Ji Woo Hong, and Chang D. Yoo
 
-The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022. **Oral**
+The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2022. <span style="color:#8B0000">**Oral**</span>
 
 </div>
 </div>
