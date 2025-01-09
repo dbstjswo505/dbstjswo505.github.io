@@ -25,10 +25,12 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 # 📌 Research Interests
 - Computer Vision
-- Natural Language Processing
+- Generative AI
+- Diffusion model
 - Multi-modal Reasoning
 - Causality and Debiasing
-- Generative AI
+- Natural Language Processing
+
 
 
 # 🔥 News
@@ -184,6 +186,8 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 <span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
 
 Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
+
+<span style="color:#FFB6C1">30th Samsung HumanTech Paper Award</span>
 
 [[code]](https://github.com/dbstjswo505/HEAR)
 </div>
@@ -407,6 +411,8 @@ European Conference on Computer Vision (**ECCV**) 2020
 - IEEE Transactions on Big Data
 
 - IEEE Transactions on Circuits and Systems for Video Technology
+
+- International Journal of Human-Computer Interaction
 
 # 🎏 Patent
 
