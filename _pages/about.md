@@ -187,7 +187,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 
 Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
 
-<span style="color:#FFB6C1">30th Samsung HumanTech Paper Award</span>
+<span style="color:#8B0000">30th Samsung HumanTech Paper Award</span>
 
 [[code]](https://github.com/dbstjswo505/HEAR)
 </div>
