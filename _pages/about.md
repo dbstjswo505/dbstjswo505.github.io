@@ -145,6 +145,17 @@ International Conference on Pattern Recognition and Artificial Intelligence (**I
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/ieie_journal_2024.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J6**] [**Spatial Adaptive Kernel Network for Enhanced Oriented Ship Detection in Synthetic Aperture Radar Imagery**](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11947319&googleIPSandBox=false&mark=0&minRead=15&ipRange=false&b2cLoginYN=false&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true)
+
+Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Donghoon Lee, Soo Hwan Eom, JongSik Ahn, Tae-Young Lee, Chang D. Yoo.
+
+Journal of The Institute of Electronics and Information Engineers, 2024
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2024</div><img src='images/access2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
