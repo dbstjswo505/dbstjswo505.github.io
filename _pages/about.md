@@ -148,7 +148,7 @@ International Conference on Pattern Recognition and Artificial Intelligence (**I
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2024</div><img src='images/access2024.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**J4**] [**Causal Localization Network for Radar Human Localization with micro-Doppler signature**](https://ieeexplore.ieee.org/document/10387441)
+[**J5**] [**Causal Localization Network for Radar Human Localization with micro-Doppler signature**](https://ieeexplore.ieee.org/document/10387441)
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo
 
@@ -226,11 +226,23 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Access 2023</div><img src='images/access2023.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**J3**] [**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
+[**J4**] [**Joint Path Alignment Framework for 3D Human Pose and Shape Estimation from Video**](https://ieeexplore.ieee.org/document/10109716)
 
 Ji Woo Hong, <span style="color:royalblue">**Sunjae Yoon** </span>, Junyeong Kim, and Chang D. Yoo  
 
 IEEE Access, 2023
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Sensors 2022</div><img src='images/sensors2022_2.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J3**] [**CE-BART: Cause-and-Effect BART for Visual Comonsense Generation**](https://www.mdpi.com/1424-8220/22/23/9399)
+
+Junyeong Kim, Ji Woo Hong, <span style="color:royalblue">**Sunjae Yoon** </span>, and Chang D. Yoo  
+
+MDPI Sensors, 2022
 
 </div>
 </div>
