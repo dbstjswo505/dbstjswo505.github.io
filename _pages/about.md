@@ -41,7 +41,9 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 
 # 🏫 Education
 
-- Mar.2021 - Current: __Ph.D candidate__ Electrical Engineering (KAIST)
+- Mar.2021 - Feb.2025: __Ph.D.__ Electrical Engineering (KAIST)
+
+&emsp;&emsp;&emsp;Thesis: "Diffusion-based Video Editing"
 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
@@ -52,6 +54,8 @@ My research focuses on the reliability of Artificial Intelligence/Deep Learning 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
 - Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
+
+&emsp;&emsp;&emsp;Advisor: Prof. Yongseob LIM
 
 # 📎 Selected Publications 
 [**9**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo, "TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation", Neural Information Processing Systems (**NeurIPS**) 2024
