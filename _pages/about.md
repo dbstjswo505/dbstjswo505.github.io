@@ -379,7 +379,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA), ($1,500), (2023.11)
 
-- Certificate of Commendation for Cum Laude Graduation, DGIST (2019.02)\\
+- Certificate of Commendation for Cum Laude Graduation, DGIST (2019.02)
 
 - Award Bronze Prize for International University Creative Car Competition (Autonomous driving) by Korea Transportation Safety Authority, (2018.05)
 
