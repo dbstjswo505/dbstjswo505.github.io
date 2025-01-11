@@ -377,7 +377,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA), ($1,500), (2023.11)
 
-- ‘Governor citation’ from the governor of DAEGU CITY DALSEONG GUN (2019.02)
+- Magna Cum Laude, DGIST (2019.02)
 
 - Award Bronze Prize for International University Creative Car Competition (Autonomous driving) by Korea Transportation Safety Authority, (2018.05)
 
