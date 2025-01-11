@@ -53,11 +53,11 @@ Currently, I am working as a researcher, focusing on the Generative AI technolog
 
 &emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
 
-- Mar.2015 - Feb.2019: __B.S.__ Computer Engineering (DGIST)
+- Mar.2015 - Feb.2019: __B.S.__ Computer Science (DGIST)
 
-&emsp;&emsp;&emsp;Magna Cum Laude
+&emsp;&emsp;&emsp; Cum Laude
 
-&emsp;&emsp;&emsp;Advisor: Prof. Yongseob LIM
+&emsp;&emsp;&emsp;Advisor: Prof. Yongseob Lim
 
 # 📎 Selected Publications 
 [**9**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo, "TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation", Neural Information Processing Systems (**NeurIPS**) 2024
@@ -379,7 +379,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA), ($1,500), (2023.11)
 
-- Magna Cum Laude, DGIST (2019.02)
+- Certificate of Commendation for Cum Laude Graduation, DGIST (2019.02)\\
 
 - Award Bronze Prize for International University Creative Car Competition (Autonomous driving) by Korea Transportation Safety Authority, (2018.05)
 
