@@ -55,7 +55,7 @@ Currently, I am working as a researcher, focusing on the Generative AI technolog
 
 - Mar.2015 - Feb.2019: __B.S.__ Computer Science (DGIST)
 
-&emsp;&emsp;&emsp; Cum Laude
+&emsp;&emsp;&emsp;Cum Laude
 
 &emsp;&emsp;&emsp;Advisor: Prof. Yongseob Lim
 
