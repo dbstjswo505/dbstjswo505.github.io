@@ -443,6 +443,8 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - International Journal of Human-Computer Interaction
 
+- ACM Transactions on Multimedia, Computing, Communications, and Applications
+
 # 🎏 Patent
 
 - Selective Query-guided Debiasing for Video Corpus Moment Retrieval No. KR 10-2022-0154621 (2022-11-17)
