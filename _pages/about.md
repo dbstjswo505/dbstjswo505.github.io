@@ -66,13 +66,13 @@ Currently, I am working as a researcher, focusing on the Generative AI technolog
 
 [**7**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo, "FRAG: Frequency Adaptive Group for Diffusion Video Editing", International Conference on Machine Learning (**ICML**) 2024
 
-[**6**] <span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo, "HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
+[**6**] <span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo, "HEAR: Hearing Enhanced Audio Response for Viode-grounded Dialogue", Findings of the Association for Computational Linguistics: **EMNLP** 2023 (long, findings)
 
 [**5**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Dahyun Kim, and Chang D. Yoo "SCANet: Scene Complexity Aware Network for Weakly-supervised Video Moment Retrieval", International Conference on Computer Vision (**ICCV**) 2023
 
 [**4**] <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, SooHwan Eom, Hee Suk Yoon, Eunseop Yoon, Daehyeok Kim, Junyeong Kim, Chanwoo Kim, and Chang D. Yoo, "Counterfactual Two-stage Debiasing Network for Video Corpus Moment Retrieval", The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2023, **Oral**
 
-[**3**] <span style="color:royalblue">**Sunjae Yoon** </span>, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo "Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue", Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
+[**3**] <span style="color:royalblue">**Sunjae Yoon** </span>, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo "Information-Theoretic Text Hallucination Reduction for Video-grounded Dialogue", Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long)
 
 [**2**] <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo, "Selective Query-guided Debiasing for Video Corpus Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2022
 
