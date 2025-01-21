@@ -462,4 +462,4 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL No. KR 10-2021-0172582 (2021-12-06)
 
-- Artificial Intelligence-based Radar Target Detection System No. KR 10-2021-0013581 (2021-01-29)
+- Artificial Intelligence-based Radar Target Detection System No. KR 10-2557458 (2023-07-14)
