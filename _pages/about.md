@@ -393,7 +393,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 # Academic Activities
 
 # 💬 Invited Talks
-- *2023.05*, CAU-AI 핵심 기술세미나, Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
+- *2023.05*, CAU-AI Core Technology Seminar: Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
 # 🏆 Awards
 - Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award, 1st Prize ($2,000) (2024.10)
@@ -444,6 +444,17 @@ European Conference on Computer Vision (**ECCV**) 2020
 - International Journal of Human-Computer Interaction
 
 - ACM Transactions on Multimedia, Computing, Communications, and Applications
+
+# 📏 Teaching Assistant
+
+- Seongnam-KAIST Next Generation ICT Research Center EE Co-op+ Joint Research Program, <span style="color:#696969;"> 2024 Fall </span>
+
+- Digital Speech Processing, 2024 Fall
+
+- Signals and Systems, 2023 Spring, 2022 Fall, 2022 Spring, 2021 Spring
+
+- Statistical Learning Theory, 2021 Fall
+
 
 # 🎏 Patent
 
