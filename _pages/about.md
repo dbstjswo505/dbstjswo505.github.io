@@ -447,7 +447,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 # 📏 Teaching Assistant
 
-- Seongnam-KAIST Next Generation ICT Research Center EE Co-op+ Joint Research Program, <span style="color:#696969;"> 2024 Fall </span>
+- Seongnam-KAIST Next Generation ICT Research Center EE Co-op+ Joint Research Program, 2024 Fall 
 
 - Digital Speech Processing, 2024 Fall
 
