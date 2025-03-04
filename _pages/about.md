@@ -49,7 +49,7 @@ I am dedicated to advancing these technologies and enhancing their performance i
 
 &emsp;&emsp;&emsp;Advisor: Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php)
 
-<span style="color:#8B0000"> Best Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025 </span>
+&emsp;&emsp;&emsp;<span style="color:#8B0000"> Best Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025 </span>
 
 - Sep.2019 - Feb.2021: __M.S.__ Electrical Engineering (KAIST)
 
