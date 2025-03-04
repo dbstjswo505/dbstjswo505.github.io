@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
+I am a postdoctoral researcher at KAIST, focusing on the Generative AI technologies (e.g., Diffusion) across various modalities, including images, videos, and natural language. 
 
-I graduated from the Daegu Gyeongbuk Institute of Science & Technology (DGIST) with a B.S. in Computer Engineering in 2019 and from Korea Advanced Institute of Science& Technology (KAIST) with a M.S. and Ph.D. in Electric Engineering in 2021 and 2025.
+I obtained Ph.D. and M.S. at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php)
 
-Currently, I am working as a postdoctoral researcher at KAIST, focusing on the Generative AI technologies across various modalities, including images, videos, and natural language. 
-I am dedicated to advancing these technologies and enhancing their performance in real-world applications. For more information, please refer to my [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing).
+For more information, please refer to my [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing).
 
 # 📌 Research Interests
 - Computer Vision
