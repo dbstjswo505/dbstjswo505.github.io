@@ -463,6 +463,8 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - ACM Transactions on Multimedia, Computing, Communications, and Applications
 
+- Expert Systems With Applications
+
 # 📏 Teaching Assistant
 
 - Seongnam-KAIST Next Generation ICT Research Center EE Co-op+ Joint Research Program, 2024 Fall 
