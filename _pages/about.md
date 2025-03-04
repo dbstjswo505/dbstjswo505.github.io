@@ -86,9 +86,9 @@ I am dedicated to advancing these technologies and enhancing their performance i
 
 [*] equal contribution
 
+## 2024
 
-
-<div class='paper-box'><div class='paper-box-image'><div class="badge">Neurips 2024</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C19**] **ITA-MDT:Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On**
