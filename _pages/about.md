@@ -412,7 +412,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 - *2023.05*, CAU-AI Core Technology Seminar: Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
 # 🏆 Awards
-- Outstanding Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025
+- Best Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025
 
 - Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award, 1st Prize ($2,000) (2024.10)
 
