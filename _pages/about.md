@@ -19,9 +19,10 @@ redirect_from:
 
 # 😃 About me
 
-I graduated from the Daegu Gyeongbuk Institute of Science & Technology (DGIST) with a B.S. in Computer Engineering in 2019 and from Korea Advanced Institute of Science& Technology (KAIST) with a M.S. in Electric Engineering in 2021. I decided to continue my education and pursue a Ph.D. in the field of Artificial Intelligence/Deep Learning. I went on to earn a Ph.D. in the field of Artificial Intelligence/Deep Learning at KAIST under the guidance of Professor [Chang D. Yoo](http://sanctusfactory.com/family.php), whose expertise and leadership were invaluable to my research.
+I graduated from the Daegu Gyeongbuk Institute of Science & Technology (DGIST) with a B.S. in Computer Engineering in 2019 and from Korea Advanced Institute of Science& Technology (KAIST) with a M.S. and Ph.D. in Electric Engineering in 2021 and 2025.
 
-Currently, I am working as a researcher, focusing on the Generative AI technologies across various modalities, including images, videos, and natural language. I am dedicated to advancing these technologies and enhancing their performance in real-world applications. For more information, please refer to my [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing).
+Currently, I am working as a postdoctoral researcher at KAIST, focusing on the Generative AI technologies across various modalities, including images, videos, and natural language. 
+I am dedicated to advancing these technologies and enhancing their performance in real-world applications. For more information, please refer to my [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing).
 
 # 📌 Research Interests
 - Computer Vision
@@ -34,10 +35,11 @@ Currently, I am working as a researcher, focusing on the Generative AI technolog
 
 
 # 🔥 News
+- *2025.03*: &nbsp;🎉 Best Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025
+- *2025.02*: &nbsp;🎉 One paper accepted to CVPR 2025
 - *2024.10*: &nbsp;🎉 Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon, 1st Prize ($2,000)
 - *2024.09*: &nbsp;🎉 One paper accepted to Neurips 2024
-- *2024.07*: &nbsp;🎉 Two papers accepted to ECCV 2024
-- *2024.05*: &nbsp;🎉 One paper accepted to ICML 2024
+
 
 # 🏫 Education
 
@@ -45,7 +47,9 @@ Currently, I am working as a researcher, focusing on the Generative AI technolog
 
 &emsp;&emsp;&emsp;Thesis: "Diffusion-based Video Editing"
 
-&emsp;&emsp;&emsp;Advisor: Prof. Chang D. Yoo
+&emsp;&emsp;&emsp;Advisor: Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php)
+
+<span style="color:#8B0000"> Best Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025 </span>
 
 - Sep.2019 - Feb.2021: __M.S.__ Electrical Engineering (KAIST)
 
@@ -81,6 +85,20 @@ Currently, I am working as a researcher, focusing on the Generative AI technolog
 # 📝 Publications 
 
 [*] equal contribution
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Neurips 2024</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C19**] **ITA-MDT:Image-Timestep-Adaptive Masked Diffusion Transformer Framework for Image-Based Virtual Try-On**
+
+Ji Woo Hong, Tri Ton, Trung X. Pham, Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Chang D. Yoo
+
+Computer Vision and Pattern Recognition (**CVPR**) 2025
+
+</div>
+</div>
 
 ## 2024
 
@@ -396,6 +414,8 @@ European Conference on Computer Vision (**ECCV**) 2020
 - *2023.05*, CAU-AI Core Technology Seminar: Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
 # 🏆 Awards
+- Outstanding Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025
+
 - Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award, 1st Prize ($2,000) (2024.10)
 
 - 30th Samsung HumanTech Paper Award, encouragement prize ($1,500) (2024.02)
