@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am a postdoctoral researcher at KAIST, focusing on the Generative AI technologies (e.g., Diffusion) across various modalities, including images, videos, and natural language. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+I am a postdoctoral researcher at KAIST, currently focusing on the Generative AI technologies (e.g., Diffusion) across various modalities, including images, videos, and natural language. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
 
 For more information, please refer to my [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing).
 
