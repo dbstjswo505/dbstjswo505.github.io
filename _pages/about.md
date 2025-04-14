@@ -135,7 +135,7 @@ Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Ho
 
 European Conference on Computer Vision (**ECCV**) 2024
 
-[[code]](https://github.com/kookie12/FlexiEdit)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/kookie12/FlexiEdit)
 
 </div>
 </div>
