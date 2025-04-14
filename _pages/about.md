@@ -109,7 +109,7 @@ Computer Vision and Pattern Recognition (**CVPR**) 2025
 
 Neural Information Processing Systems (**NeurIPS**) 2024
 
-[[code]](https://github.com/dbstjswo505/TPC)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/TPC)
 
 </div>
 </div>
@@ -135,7 +135,7 @@ Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Ho
 
 European Conference on Computer Vision (**ECCV**) 2024
 
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/kookie12/FlexiEdit)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/kookie12/FlexiEdit)
 
 </div>
 </div>
@@ -149,7 +149,7 @@ European Conference on Computer Vision (**ECCV**) 2024
 
 International Conference on Machine Learning (**ICML**), 2024
 
-[[code]](https://github.com/dbstjswo505/FRAG) [[page]](https://dbstjswo505.github.io/FRAG-page)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/FRAG) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://dbstjswo505.github.io/FRAG-page)
 
 </div>
 </div>
@@ -183,7 +183,7 @@ Journal of The Institute of Electronics and Information Engineers, 2024
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo
 
-[[code]](https://github.com/dbstjswo505/CLNet)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/CLNet)
 
 IEEE Access, 2024
 </div>
@@ -209,7 +209,7 @@ Hyun Ryu, <span style="color:royalblue">**Sunjae Yoon** </span>, Hee Suk Yoon, E
 
 AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 
-[[code]](https://github.com/Hyun-Ryu/simpsi)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/Hyun-Ryu/simpsi)
 </div>
 </div>
 
@@ -226,7 +226,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 
 <span style="color:#8B0000">30th Samsung HumanTech Paper Award</span>
 
-[[code]](https://github.com/dbstjswo505/HEAR)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/HEAR)
 </div>
 </div>
 
@@ -239,7 +239,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 
 International Conference on Computer Vision (**ICCV**) 2023
 
-[[code]](https://github.com/dbstjswo505/SCANet)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/SCANet)
 
 </div>
 </div>
@@ -323,7 +323,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (short paper
 
 [**C5**] [**Selective Query-guided Debiasing for Video Corpus Moment Retrieval**](https://arxiv.org/pdf/2210.08714.pdf) 
 
-[[code]](https://github.com/dbstjswo505/SQuiDNet)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/SQuiDNet)
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo
 
@@ -361,7 +361,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 
 [**J1**] [**Dual-Scale Doppler Attention for Human Identification**](https://www.mdpi.com/1424-8220/22/17/6363) 
 
-[[code]](https://github.com/dbstjswo505/DSDA)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/DSDA)
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Ji Woo Hong, and Chang D. Yoo
 
@@ -389,7 +389,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**), 2021
 
 [**C2**] [**WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9506218) 
 
-[[code]](https://github.com/dbstjswo505/WMRN)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/WMRN)
 
 <span style="color:royalblue">**Sunjae Yoon** </span> *, Dahyun Kim *, Ji Woo Hong, Junyeong Kim, Kookhoi Kim and Chang D. Yoo
 
