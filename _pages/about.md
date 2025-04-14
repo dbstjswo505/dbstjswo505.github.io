@@ -33,7 +33,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉 Best Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025
+- *2025.03*: &nbsp;🎉 Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, 2025
 - *2025.02*: &nbsp;🎉 One paper accepted to CVPR 2025
 - *2024.10*: &nbsp;🎉 Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon, 1st Prize ($2,000)
 - *2024.09*: &nbsp;🎉 One paper accepted to Neurips 2024
@@ -47,7 +47,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 &emsp;&emsp;&emsp;Advisor: Prof. [Chang D. Yoo](http://sanctusfactory.com/family.php)
 
-&emsp;&emsp;&emsp;<span style="color:#8B0000">Best Ph.D. Thesis Award, School of Electrical Engineering, KAIST, 2025 </span>
+&emsp;&emsp;&emsp;<span style="color:#8B0000">Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, 2025 </span>
 
 - Sep.2019 - Feb.2021: __M.S.__ Electrical Engineering (KAIST)
 
@@ -418,7 +418,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 - *2023.05*, CAU-AI Core Technology Seminar: Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
 # 🏆 Awards
-- Best Ph.D. Thesis Award, School of Electrical Engineering, KAIST, (golden medal) (2025.03)
+- Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, (golden medal) (2025.03)
 
 - Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award, 1st Prize ($2,000) (2024.10)
 
