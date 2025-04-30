@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am a postdoctoral researcher at KAIST, currently focusing on the Generative AI technologies (e.g., Diffusion) across various modalities, including images, videos, and natural language. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+I am currently working as a postdoctoral researcher at KAIST as part of South Korea’s alternative 1-year military service (March 2025 ~ Feb 2026). I will be available to start work in March 2026. My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including images, videos, and natural language. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
 
 For more information, please refer to my [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing).
 
@@ -427,6 +427,8 @@ European Conference on Computer Vision (**ECCV**) 2020
 - Winner of Best Paper Award, Winter Conference of Korean Artificial Intelligence Association (KAIA), ($1,500), (2023.11)
 
 - Certificate of Commendation for Cum Laude Graduation, DGIST (2019.02)
+
+- Certificate of Commendation from Dalseong-gun Office, Daegu (2019.02) 
 
 - Award Bronze Prize for International University Creative Car Competition (Autonomous driving) by Korea Transportation Safety Authority, (2018.05)
 
