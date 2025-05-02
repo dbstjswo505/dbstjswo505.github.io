@@ -107,6 +107,8 @@ Ji Woo Hong, Tri Ton, Trung X. Pham, Gwanhyeong Koo, <span style="color:royalblu
 
 Computer Vision and Pattern Recognition (**CVPR**) 2025
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/jiwoohong93/ita-mdt_code) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://jiwoohong93.github.io/ita-mdt/)
+
 </div>
 </div>
 
