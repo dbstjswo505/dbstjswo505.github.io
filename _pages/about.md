@@ -33,10 +33,10 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉 One paper accepted to ICML 2025 (Spotlight)
 - *2025.03*: &nbsp;🎉 Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, 2025
 - *2025.02*: &nbsp;🎉 One paper accepted to CVPR 2025
 - *2024.10*: &nbsp;🎉 Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon, 1st Prize ($2,000)
-- *2024.09*: &nbsp;🎉 One paper accepted to Neurips 2024
 
 
 # 🏫 Education
@@ -84,7 +84,19 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 [*] equal contribution
 
-## 2024
+## 2025
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/icml2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C20**] **FlowDrag: 3D-aware Drag-based Image Editing with Mesh-guided Deformation Vector Flow Fields**
+
+Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
+
+International Conference on Machine Learning (**ICML**) 2025, <span style="color:#8B0000">**Spotlight**</span>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
