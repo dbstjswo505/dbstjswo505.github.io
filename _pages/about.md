@@ -93,7 +93,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
 
-International Conference on Machine Learning (**ICML**) 2025, <span style="color:#8B0000">**Spotlight**</span>
+International Conference on Machine Learning (**ICML**) 2025, <span style="color:#8B0000">**Spotlight**</span> (<2.6%)
 
 </div>
 </div>
