@@ -18,7 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am currently working as a postdoctoral researcher at KAIST as part of South Korea’s alternative 1-year military service (March 2025 ~ Feb 2026). I will be available to start work in March 2026. My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including images, videos, and natural language. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+I am currently working as a postdoctoral researcher at KAIST as part of South Korea’s alternative 1-year military service (March 2025 ~ Feb 2026). My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including images, videos, and natural language. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+
+<u>I will be available to start work in March 2026.</u>
+
+I warmly welcome and appreciate any work opportunities given to me.
 
 For more information, please refer to my [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing).
 
@@ -137,7 +141,7 @@ Neural Information Processing Systems (**NeurIPS**) 2024
 
 European Conference on Computer Vision (**ECCV**) 2024
 
-(Code will be released after U.S. patent registeration)
+(In process of U.S./J.P. patent registeration)
 </div>
 </div>
 
