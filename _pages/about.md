@@ -137,7 +137,7 @@ Neural Information Processing Systems (**NeurIPS**) 2024
 
 European Conference on Computer Vision (**ECCV**) 2024
 
-(In process of U.S./J.P. patent registeration)
+(Code will be released after U.S. patent registeration)
 </div>
 </div>
 
