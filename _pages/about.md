@@ -342,11 +342,11 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (short paper
 
 [**C5**] [**Selective Query-guided Debiasing for Video Corpus Moment Retrieval**](https://arxiv.org/pdf/2210.08714.pdf) 
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/SQuiDNet)
-
 <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, Eunseop Yoon, Dahyun Kim , Junyeong Kim, Hee Suk Yoon, and Chang D. Yoo
 
 European Conference on Computer Vision (**ECCV**) 2022
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/SQuiDNet)  (Related Patent: U.S. 1,232,384)
 
 </div>
 </div>
@@ -380,11 +380,11 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 
 [**J1**] [**Dual-Scale Doppler Attention for Human Identification**](https://www.mdpi.com/1424-8220/22/17/6363) 
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/DSDA)
-
 <span style="color:royalblue">**Sunjae Yoon** </span>, Dahyun Kim, Ji Woo Hong, and Chang D. Yoo
 
 MDPI Sensors, 2022
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/DSDA)
 
 </div>
 </div>
