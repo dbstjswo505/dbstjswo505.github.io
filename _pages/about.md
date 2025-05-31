@@ -407,11 +407,11 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**), 2021
 
 [**C2**] [**WEAKLY-SUPERVISED MOMENT RETRIEVAL NETWORK FOR VIDEO CORPUS MOMENT RETRIEVAL**](https://ieeexplore.ieee.org/document/9506218) 
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/WMRN)
-
 <span style="color:royalblue">**Sunjae Yoon** </span> *, Dahyun Kim *, Ji Woo Hong, Junyeong Kim, Kookhoi Kim and Chang D. Yoo
 
 International Conference on Image Processing (**ICIP**), 2021
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/WMRN)
 
 </div>
 </div>
