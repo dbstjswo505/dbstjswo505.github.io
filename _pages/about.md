@@ -61,9 +61,9 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 - Mar.2015 - Feb.2019: __B.S.__ Computer Science (DGIST)
 
-&emsp;&emsp;&emsp;<span style="color:#8B0000">Cum Laude </span>
-
 &emsp;&emsp;&emsp;Advisor: Prof. Yongseob Lim
+
+&emsp;&emsp;&emsp;<span style="color:#8B0000">Cum Laude </span>
 
 # 📎 Selected Publications 
 [**9**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo, "TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation", Neural Information Processing Systems (**NeurIPS**) 2024
