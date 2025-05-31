@@ -202,9 +202,10 @@ Journal of The Institute of Electronics and Information Engineers, 2024
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Jun Yeop Shim, Soohwan Eom, Ji Woo Hong, Chang D. Yoo
 
+IEEE Access, 2024
+
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/CLNet)
 
-IEEE Access, 2024
 </div>
 </div>
 
@@ -243,9 +244,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 
 Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
 
-<span style="color:#8B0000">30th Samsung HumanTech Paper Award</span>
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/HEAR)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/HEAR) <span style="color:#8B0000">30th Samsung HumanTech Paper Award</span>
 </div>
 </div>
 
