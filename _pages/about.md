@@ -37,11 +37,10 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 
 # 🔥 News
+- *2025.06*: &nbsp;🎉 One paper accepted to ICCV 2025
 - *2025.05*: &nbsp;🎉 One paper accepted to ICML 2025 (Spotlight)
 - *2025.03*: &nbsp;🎉 Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, 2025
 - *2025.02*: &nbsp;🎉 One paper accepted to CVPR 2025
-- *2024.10*: &nbsp;🎉 Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon, 1st Prize ($2,000)
-
 
 # 🏫 Education
 
@@ -66,6 +65,8 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 &emsp;&emsp;&emsp;<span style="color:#8B0000">Cum Laude </span>
 
 # 📎 Selected Publications 
+[**10**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong and Chang D. Yoo, "Occlusion-robust Stylization for Drawing-based 3D Animation", International Conference on Computer Vision (**ICCV**) 2025
+
 [**9**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, and Chang D. Yoo, "TPC: Test-time Procrustes Calibration for Diffusion-based Human Image Animation", Neural Information Processing Systems (**NeurIPS**) 2024
 
 [**8**] <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo, "Dilutional Noise Initialization for Diffusion Video Editing", European Conference on Computer Vision (**ECCV**) 2024
@@ -89,6 +90,17 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 [*] equal contribution
 
 ## 2025
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICCV 2025</div><img src='images/iccv2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C21**] **Occlusion-robust Stylization for Drawing-based 3D Animation**
+
+<span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
+
+International Conference on Computer Vision (**ICCV**) 2025
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/icml2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
