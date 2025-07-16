@@ -97,7 +97,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
 
-International Conference on Computer Vision (**ICCV**) 2025
+International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#8B0000">**Review Score: 6,6,5 (avg. 5.67/6)**</span>
 
 </div>
 </div>
