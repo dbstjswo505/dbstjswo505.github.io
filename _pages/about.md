@@ -318,9 +318,9 @@ MDPI Sensors, 2022
 
 Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, <span style="color:royalblue">**Sunjae Yoon** </span>, Gwangsu Kim, Yingzhen Li, and Chang D. Yoo 
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/hee-suk-yoon/ESD)
-
 International Conference on Learning Representation (**ICLR**), 2023
+
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/hee-suk-yoon/ESD)
 
 </div>
 </div>
