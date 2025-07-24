@@ -109,7 +109,7 @@ International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#
 
 Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
 
-International Conference on Machine Learning (**ICML**) 2025, <span style="color:#8B0000">**Spotlight**</span> (<2.6%)
+International Conference on Machine Learning (**ICML**) 2025, <span style="color:#8B0000">**Spotlight**</span> (<2.6%) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/kookie12/FlowDrag) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://kookie12.github.io/FlowDrag-Projecct-Page/)
 
 </div>
 </div>
