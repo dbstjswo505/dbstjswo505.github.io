@@ -229,6 +229,8 @@ IEEE Access, 2024
 
 Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Chang D. Yoo
 
+(Related Patent: K.R. 10-2837290)
+
 The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
 </div>
 </div>
@@ -520,6 +522,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 
 # 🎏 Patent
+- METHOD AND DEVICE FOR WAVELET-GUIDED ACCELERATION OF TEXT INVERSION IN DIFFUSION-BASED IMAGE EDITING. KR 10-2837290 (2023-07-14)
 
 - METHOD AND DEVICE FOR VIDEO MOMENT RETRIEVAL BASED ON SELECTIVE DEBIASING No. US 1,232,384 (2025-06-03)
 
