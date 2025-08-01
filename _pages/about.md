@@ -231,7 +231,7 @@ Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Chang D. 
 
 The International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024
 
-(Related Patent: K.R. 10-2837290)
+(Related Patent: KR 10-2837290)
 </div>
 </div>
 
