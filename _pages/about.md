@@ -153,6 +153,8 @@ Neural Information Processing Systems (**NeurIPS**) 2024
 
 European Conference on Computer Vision (**ECCV**) 2024
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/DNI) 
+
 (In process of U.S./J.P. patent registeration)
 </div>
 </div>
@@ -522,7 +524,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 
 # 🎏 Patent
-- METHOD AND DEVICE FOR WAVELET-GUIDED ACCELERATION OF TEXT INVERSION IN DIFFUSION-BASED IMAGE EDITING. KR 10-2837290 (2023-07-14)
+- METHOD AND DEVICE FOR WAVELET-GUIDED ACCELERATION OF TEXT INVERSION IN DIFFUSION-BASED IMAGE EDITING No. KR 10-2837290 (2025-07-17)
 
 - METHOD AND DEVICE FOR VIDEO MOMENT RETRIEVAL BASED ON SELECTIVE DEBIASING No. US 1,232,384 (2025-06-03)
 
