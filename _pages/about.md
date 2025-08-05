@@ -99,6 +99,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#8B0000">**Review Score: 6,6,5 (avg. 5.67/6)**</span>
 
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/OSF)
 [![GitHub stars](https://img.shields.io/github/stars/dbstjswo505/OSF?style=flat-square)](https://github.com/dbstjswo505/OSF) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/)
 
 </div>
