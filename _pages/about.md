@@ -141,7 +141,7 @@ Computer Vision and Pattern Recognition (**CVPR**) 2025
 
 Neural Information Processing Systems (**NeurIPS**) 2024
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/TPC)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/TPC) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://dbstjswo505.github.io/TPC-page/)
 
 </div>
 </div>
