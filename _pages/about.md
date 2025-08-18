@@ -104,6 +104,33 @@ International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#
 </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div class="badge">ICCV 2025</div>
+    <!-- 여기만 video로 교체 -->
+    <video class="paper-video"
+           autoplay
+           loop
+           muted
+           playsinline
+           width="100%">
+      <source src="videos/iccv2025.mp4" type="video/mp4" />
+      Your browser does not support the video tag.
+    </video>
+  </div>
+
+  <div class='paper-box-text' markdown="1">
+    [**C21**] [**Occlusion-robust Stylization for Drawing-based 3D Animation**](https://arxiv.org/abs/2508.00398)
+
+    <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
+
+    International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#8B0000">**Review Score: 6,6,5 (avg. 5.67/6)**</span>
+
+    [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/OSF) 
+    [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/)
+  </div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/icml2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
