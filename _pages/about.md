@@ -119,16 +119,21 @@ International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#
     </video>
   </div>
 
-  <div class='paper-box-text' markdown="1">
-    [**C21**] [**Occlusion-robust Stylization for Drawing-based 3D Animation**](https://arxiv.org/abs/2508.00398)
-
-    <span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
-
-    International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#8B0000">**Review Score: 6,6,5 (avg. 5.67/6)**</span>
-
-    [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/OSF) 
-    [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/)
-  </div>
+<div class='paper-box-text' markdown="1">
+  <a href="https://arxiv.org/abs/2508.00398"><strong>C21</strong> <strong>Occlusion-robust Stylization for Drawing-based 3D Animation</strong></a>
+  <br>
+  <span style="color:royalblue"><strong>Sunjae Yoon</strong></span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
+  <br>
+  International Conference on Computer Vision (<strong>ICCV</strong>) 2025
+  <span style="color:#8B0000"><strong>Review Score: 6,6,5 (avg. 5.67/6)</strong></span>
+  <br>
+  <a href="https://github.com/dbstjswo505/OSF">
+    <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo">
+  </a>
+  <a href="https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/">
+    <img src="https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square" alt="Demo Page">
+  </a>
+</div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/icml2025.png' alt="sym" width="100%"></div>
