@@ -104,28 +104,30 @@ International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#
 </div>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
+<div class="paper-box">
+  <div class="paper-box-image">
     <div class="badge">ICCV 2025</div>
-    <!-- 여기만 video로 교체 -->
     <video class="paper-video"
            autoplay
            loop
            muted
            playsinline
            width="100%">
-      <source src="videos/iccv2025.mp4" type="video/mp4" />
+      <source src="videos/iccv2025.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
 
-  <div class='paper-box-text' markdown="1">
-    <strong>[C21]</strong> <a href="https://arxiv.org/abs/2508.00398"><strong>Occlusion-robust Stylization for Drawing-based 3D Animation</strong></a>
+  <div class="paper-box-text">
+    <strong>[C21]</strong>
+    <a href="https://arxiv.org/abs/2508.00398" class="paper-link">
+      <strong>Occlusion-robust Stylization for Drawing-based 3D Animation</strong>
+    </a>
     <br>
-    <span style="color:royalblue"><strong>Sunjae Yoon</strong></span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
+    <span style="color:royalblue;"><strong>Sunjae Yoon</strong></span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
     <br>
     International Conference on Computer Vision (<strong>ICCV</strong>) 2025
-    <span style="color:#8B0000"><strong>Review Score: 6,6,5 (avg. 5.67/6)</strong></span>
+    <span style="color:#8B0000;"><strong>Review Score: 6,6,5 (avg. 5.67/6)</strong></span>
     <br>
     <a href="https://github.com/dbstjswo505/OSF">
       <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo">
