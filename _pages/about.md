@@ -185,20 +185,35 @@ Computer Vision and Pattern Recognition (**CVPR**) 2025
   </div>
 </div>
 
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge">ECCV 2024</div>
+    <video class="paper-video"
+           autoplay
+           loop
+           muted
+           playsinline
+           width="100%">
+      <source src="videos/eccv2024.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/eccv2024_1.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
-
-[**C17**] [**Dilutional Noise Initialization for Dilution Video Editing**](https://arxiv.org/abs/2409.13037v1)
-
-<span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo
-
-European Conference on Computer Vision (**ECCV**) 2024
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/DNI) 
-
-(In process of U.S./J.P. patent registeration)
-</div>
+  <div class="paper-box-text">
+    <strong>[C17]</strong>
+    <a href="https://arxiv.org/abs/2409.13037v1" class="paper-link">
+      <strong>Dilutional Noise Initialization for Dilution Video Editing</strong>
+    </a>
+    <br>
+    <span style="color:royalblue;"><strong>Sunjae Yoon</strong></span>, Gwanhyeong Koo, Ji Woo Hong, and Chang D. Yoo
+    <br>
+    European Conference on Computer Vision (<strong>ECCV</strong>) 2024
+    <br>
+    <a href="https://github.com/dbstjswo505/DNI">
+      <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo">
+    </a>
+    (In process of U.S./J.P. patent registeration)
+  </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ECCV 2024</div><img src='images/eccv2024_2.png' alt="sym" width="100%"></div>
