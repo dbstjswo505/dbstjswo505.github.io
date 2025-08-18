@@ -231,18 +231,37 @@ European Conference on Computer Vision (**ECCV**) 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2024</div><img src='images/icml2024.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
+<div class="paper-box">
+  <div class="paper-box-image">
+    <div class="badge">ICML 2024</div>
+    <video class="paper-video"
+           autoplay
+           loop
+           muted
+           playsinline
+           width="100%">
+      <source src="videos/icml2024.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
 
-[**C15**] [**FRAG: Frequency Adapting Group for Diffusion Video Editing**](https://arxiv.org/pdf/2406.06044)
-
-<span style="color:royalblue">**Sunjae Yoon** </span>, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo
-
-International Conference on Machine Learning (**ICML**), 2024
-
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/FRAG) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://dbstjswo505.github.io/FRAG-page)
-
-</div>
+  <div class="paper-box-text">
+    <strong>[C15]</strong>
+    <a href="https://arxiv.org/pdf/2406.06044" class="paper-link">
+      <strong>FRAG: Frequency Adapting Group for Diffusion Video Editing</strong>
+    </a>
+    <br>
+    <span style="color:royalblue;"><strong>Sunjae Yoon</strong></span>, Gwanhyeong Koo, Geonwoo Kim, and Chang D. Yoo
+    <br>
+    International Conference on Machine Learning (<strong>ICML</strong>) 2024
+    <br>
+    <a href="https://github.com/dbstjswo505/FRAG">
+      <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo">
+    </a>
+    <a href="https://dbstjswo505.github.io/FRAG-page">
+      <img src="https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square" alt="Demo Page">
+    </a>
+  </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICPRAI 2024</div><img src='images/icprai_2024.png' alt="sym" width="100%"></div>
