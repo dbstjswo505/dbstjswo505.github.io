@@ -120,7 +120,7 @@ International Conference on Computer Vision (**ICCV**) 2025 <span style="color:#
   </div>
 
   <div class='paper-box-text' markdown="1">
-    [C21] <a href="https://arxiv.org/abs/2508.00398"> <strong>Occlusion-robust Stylization for Drawing-based 3D Animation</strong></a>
+    <strong>[C21]</strong> <a href="https://arxiv.org/abs/2508.00398"> <strong>Occlusion-robust Stylization for Drawing-based 3D Animation</strong></a>
     <br>
     <span style="color:royalblue"><strong>Sunjae Yoon</strong></span>, Gwanhyeong Koo, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
     <br>
