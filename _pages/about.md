@@ -18,13 +18,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am currently working as a postdoctoral researcher at KAIST as part of South Korea’s alternative 1-year military service (March 2025 ~ Feb 2026). My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including images, videos, and natural language. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+I am currently working as a postdoctoral researcher at KAIST as part of South Korea’s alternative 1-year military service (March 2025 ~ Feb 2026). My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including image/video/3D generation and editing. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
 
 <u>I will be available to start work in March 2026.</u>
 
 I warmly welcome and appreciate any work opportunities given to me.
 
-For more information, please refer to my [CV](https://drive.google.com/file/d/1umt2X6c9S4npC0-nfSn6KEVJkDJ15u12/view?usp=sharing).
+For more information, please refer to my [CV](https://drive.google.com/file/d/1umt2X6c9S4npC0-nfSn6KEVJkDJ15u12/view?usp=sharing)
 
 # 📌 Research Interests
 - Computer Vision
