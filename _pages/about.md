@@ -37,10 +37,10 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉 One paper accepted to EMNLP 2025
 - *2025.06*: &nbsp;🎉 One paper accepted to ICCV 2025
 - *2025.05*: &nbsp;🎉 One paper accepted to ICML 2025 (Spotlight)
 - *2025.03*: &nbsp;🎉 Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, 2025
-- *2025.02*: &nbsp;🎉 One paper accepted to CVPR 2025
 
 # 🏫 Education
 
@@ -90,6 +90,18 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 [*] equal contribution
 
 ## 2025
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/emnlp2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C22**] [**Learning to See through Sound: From VggCaps to Multi2Cap for Richer Automated Audio Captioning**](https://dbstjswo505.github.io/)
+
+Sangyeon Cho, Mingi Kim, Jinkwon Hwang, Jaehoon Go, Minuk Ma, <span style="color:royalblue">**Sunjae Yoon** </span>, and Junyeong Kim
+
+Empirical Methods in Natural Language Processing (**EMNLP**), 2025. (long paper, main)
+
+</div>
+</div>
+
 <div class="paper-box">
   <div class="paper-box-image">
     <div class="badge">ICCV 2025</div>
@@ -414,7 +426,7 @@ International Conference on Learning Representation (**ICLR**), 2023
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Eunseop Yoon, Hee Suk Yoon, Junyeong Kim, and Chang D. Yoo
 
-Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper)
+Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper, main)
 
 [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/HEAR)
 
