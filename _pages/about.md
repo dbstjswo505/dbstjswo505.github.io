@@ -90,7 +90,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1k
 [*] equal contribution
 
 ## 2025
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2025</div><img src='images/emnlp2025.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2025</div><img src='images/emnlp2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C22**] [**Learning to See through Sound: From VggCaps to Multi2Cap for Richer Automated Audio Captioning**](https://dbstjswo505.github.io/)
