@@ -24,7 +24,7 @@ I am currently working as a postdoctoral researcher at KAIST as part of South Ko
 
 I warmly welcome and appreciate any work opportunities given to me.
 
-For more information, please refer to my [CV](https://drive.google.com/file/d/1kDQDw_m0SH67cUGQzCE2LJHY1CCOoS0q/view?usp=sharing).
+For more information, please refer to my [CV](https://drive.google.com/file/d/1umt2X6c9S4npC0-nfSn6KEVJkDJ15u12/view?usp=sharing).
 
 # 📌 Research Interests
 - Computer Vision
