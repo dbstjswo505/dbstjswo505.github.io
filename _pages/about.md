@@ -190,11 +190,14 @@ Computer Vision and Pattern Recognition (**CVPR**) 2025
     <br>
     Neural Information Processing Systems (<strong>NeurIPS</strong>) 2024
     <br>
+    <a href="https://dbstjswo505.github.io/TPC-page/">
+      <img src="https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square" alt="Demo Page">
+    </a>
     <a href="https://github.com/dbstjswo505/TPC">
       <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo">
     </a>
-    <a href="https://dbstjswo505.github.io/TPC-page/">
-      <img src="https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square" alt="Demo Page">
+    <a href="https://github.com/dbstjswo505/TPC">
+      <img src="https://img.shields.io/github/stars/dbstjswo505/TPC?style=social&label=TPC%20Stars" alt="GitHub Repo stars">
     </a>
   </div>
 </div>
@@ -226,6 +229,9 @@ Computer Vision and Pattern Recognition (**CVPR**) 2025
     <a href="https://github.com/dbstjswo505/DNI">
       <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo">
     </a>
+    <a href="https://github.com/dbstjswo505/DNI">
+      <img src="https://img.shields.io/github/stars/dbstjswo505/DNI?style=social&label=DNI%20Stars" alt="GitHub Repo stars">
+    </a>
     (In process of U.S./J.P. patent registeration)
   </div>
 </div>
@@ -239,7 +245,7 @@ Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Ho
 
 European Conference on Computer Vision (**ECCV**) 2024
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/kookie12/FlexiEdit) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://kookie12.github.io/FlexiEdit-Project-Page/)
+[![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://kookie12.github.io/FlexiEdit-Project-Page/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/kookie12/FlexiEdit) [![](https://img.shields.io/github/stars/kookie12/FlexiEdit?style=social&label=FlexiEdit%20Stars)](https://github.com/kookie12/FlexiEdit)
 
 
 </div>
@@ -269,11 +275,14 @@ European Conference on Computer Vision (**ECCV**) 2024
     <br>
     International Conference on Machine Learning (<strong>ICML</strong>) 2024
     <br>
+    <a href="https://dbstjswo505.github.io/FRAG-page">
+      <img src="https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square" alt="Demo Page">
+    </a>
     <a href="https://github.com/dbstjswo505/FRAG">
       <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo">
     </a>
-    <a href="https://dbstjswo505.github.io/FRAG-page">
-      <img src="https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square" alt="Demo Page">
+    <a href="https://github.com/dbstjswo505/FRAG">
+      <img src="https://img.shields.io/github/stars/dbstjswo505/FRAG?style=social&label=FRAG%20Stars" alt="GitHub Repo stars">
     </a>
   </div>
 </div>
@@ -309,7 +318,7 @@ Journal of The Institute of Electronics and Information Engineers, 2024
 
 IEEE Access, 2024
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/CLNet)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/CLNet) [![](https://img.shields.io/github/stars/dbstjswo505/CLNet?style=social&label=CLNet%20Stars)](https://github.com/dbstjswo505/CLNet)
 
 </div>
 </div>
@@ -336,7 +345,7 @@ Hyun Ryu, <span style="color:royalblue">**Sunjae Yoon** </span>, Hee Suk Yoon, E
 
 AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/Hyun-Ryu/simpsi)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/Hyun-Ryu/simpsi) [![](https://img.shields.io/github/stars/Hyun-Ryu/simpsi?style=social&label=simpsi%20Stars)](https://github.com/Hyun-Ryu/simpsi)
 </div>
 </div>
 
@@ -351,7 +360,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**) 2024
 
 Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, findings)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/HEAR) <span style="color:#8B0000">30th Samsung HumanTech Paper Award</span>
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/HEAR) [![](https://img.shields.io/github/stars/dbstjswo505/HEAR?style=social&label=HEAR%20Stars)](https://github.com/dbstjswo505/HEAR) <span style="color:#8B0000">30th Samsung HumanTech Paper Award</span>
 </div>
 </div>
 
@@ -364,7 +373,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**) 2023 (long paper, f
 
 International Conference on Computer Vision (**ICCV**) 2023
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/SCANet)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/SCANet) [![](https://img.shields.io/github/stars/dbstjswo505/SCANet?style=social&label=SCANet%20Stars)](https://github.com/dbstjswo505/SCANet)
 
 </div>
 </div>
