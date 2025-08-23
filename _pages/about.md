@@ -127,11 +127,11 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2025. (long paper,
     International Conference on Computer Vision (<strong>ICCV</strong>) 2025
     <span style="color:#8B0000;"><strong>Review Score: 6,6,5 (avg. 5.67/6)</strong></span>
     <br>
-    <a href="https://github.com/dbstjswo505/OSF">
-      <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo"> 
-    </a>
     <a href="https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/">
       <img src="https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square" alt="Demo Page">
+    </a>
+    <a href="https://github.com/dbstjswo505/OSF">
+      <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo"> 
     </a>
     <a href="https://github.com/dbstjswo505/OSF">
       <img src="https://img.shields.io/github/stars/dbstjswo505/OSF?style=social&label=OSF%20Stars" alt="GitHub Repo stars">
@@ -146,7 +146,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2025. (long paper,
 
 Gwanhyeong Koo, <span style="color:royalblue">**Sunjae Yoon** </span>, Younghwan Lee, Ji Woo Hong, and Chang D. Yoo
 
-International Conference on Machine Learning (**ICML**) 2025, <span style="color:#8B0000">**Spotlight**</span> (<2.6%) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/kookie12/FlowDrag) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://kookie12.github.io/FlowDrag-Projecct-Page/)
+International Conference on Machine Learning (**ICML**) 2025, <span style="color:#8B0000">**Spotlight**</span> (<2.6%) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://kookie12.github.io/FlowDrag-Projecct-Page/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/kookie12/FlowDrag) [![](https://img.shields.io/github/stars/kookie12/FlowDrag?style=social&label=FlowDrag%20Stars)](https://github.com/kookie12/FlowDrag)
 
 </div>
 </div>
@@ -160,8 +160,7 @@ Ji Woo Hong, Tri Ton, Trung X. Pham, Gwanhyeong Koo, <span style="color:royalblu
 
 Computer Vision and Pattern Recognition (**CVPR**) 2025
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/jiwoohong93/ita-mdt_code) [![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://jiwoohong93.github.io/ita-mdt/)
-
+[![Demo Page](https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square)](https://jiwoohong93.github.io/ita-mdt/) [![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/jiwoohong93/ita-mdt_code) [![](https://img.shields.io/github/stars/jiwoohong93/ita-mdt_code?style=social&label=ita-mdt%20Stars)](https://github.com/jiwoohong93/ita-mdt_code)
 </div>
 </div>
 
