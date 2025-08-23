@@ -128,11 +128,12 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2025. (long paper,
     <span style="color:#8B0000;"><strong>Review Score: 6,6,5 (avg. 5.67/6)</strong></span>
     <br>
     <a href="https://github.com/dbstjswo505/OSF">
-      <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo">
+      <img src="https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square" alt="GitHub Repo"> 
     </a>
     <a href="https://dbstjswo505.github.io/Drawing-based-3D-Animation-page/">
       <img src="https://img.shields.io/badge/Demo-Page-blue?logo=google-chrome&style=flat-square" alt="Demo Page">
     </a>
+    [![](https://img.shields.io/github/stars/dbstjswo505/OSF?style=social&label=OSF%20Stars)](https://github.com/dbstjswo505/OSF)
   </div>
 </div>
 
