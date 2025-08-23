@@ -423,7 +423,7 @@ Hee Suk Yoon, Joshua Tian Jin Tee , Eunseop Yoon, <span style="color:royalblue">
 
 International Conference on Learning Representation (**ICLR**), 2023
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/hee-suk-yoon/ESD)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/hee-suk-yoon/ESD) [![](https://img.shields.io/github/stars/hee-suk-yoon/ESD?style=social&label=ESD%20Stars)](https://github.com/hee-suk-yoon/ESD)
 
 </div>
 </div>
@@ -439,7 +439,7 @@ International Conference on Learning Representation (**ICLR**), 2023
 
 Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (long paper, main)
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/HEAR)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/HEAR) [![](https://img.shields.io/github/stars/dbstjswo505/HEAR?style=social&label=THAM%20Stars)](https://github.com/dbstjswo505/HEAR)
 
 </div>
 </div>
@@ -465,7 +465,7 @@ Empirical Methods in Natural Language Processing (**EMNLP**), 2022. (short paper
 
 European Conference on Computer Vision (**ECCV**) 2022
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/SQuiDNet)  (Related Patent: U.S. 1,232,384)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/SQuiDNet) [![](https://img.shields.io/github/stars/dbstjswo505/SQuiDNet?style=social&label=SQuiDNet%20Stars)](https://github.com/dbstjswo505/SQuiDNet)  (Related Patent: U.S. 1,232,384)
 
 </div>
 </div>
@@ -503,7 +503,7 @@ The International Conference on Acoustics, Speech and Signal Processing (**ICASS
 
 MDPI Sensors, 2022
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/DSDA)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/DSDA) [![](https://img.shields.io/github/stars/dbstjswo505/DSDA?style=social&label=DSDA%20Stars)](https://github.com/dbstjswo505/DSDA)  
 
 </div>
 </div>
@@ -531,7 +531,7 @@ AAAI Association for the Advancement of Artificial Intelligence (**AAAI**), 2021
 
 International Conference on Image Processing (**ICIP**), 2021
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/WMRN)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-black?logo=github&style=flat-square)](https://github.com/dbstjswo505/WMRN) [![](https://img.shields.io/github/stars/dbstjswo505/WMRN?style=social&label=WMRN%20Stars)](https://github.com/dbstjswo505/WMRN)  
 
 </div>
 </div>
