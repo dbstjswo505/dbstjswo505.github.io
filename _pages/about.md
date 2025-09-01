@@ -37,6 +37,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉 Selected to present my Ph.D. thesis at the ICCV 2025 Doctoral Consortium
 - *2025.08*: &nbsp;🎉 One paper accepted to EMNLP 2025
 - *2025.06*: &nbsp;🎉 One paper accepted to ICCV 2025
 - *2025.05*: &nbsp;🎉 One paper accepted to ICML 2025 (Spotlight)
@@ -555,7 +556,10 @@ European Conference on Computer Vision (**ECCV**) 2020
 # 💬 Invited Talks
 - *2023.05*, CAU-AI Core Technology Seminar: Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
 
-# 🏆 Awards
+# 🏆 Awards & Hornors
+
+- ICCV 2025 Doctoral Consortium, Ph.D. thesis selected for presentation (2025.10)
+
 - Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, (golden medal) (2025.03)
 
 - Winner of Datathon Award, 2nd Seoul National University Bundang Hospital (SNUBH) Datathon Award, 1st Prize ($2,000) (2024.10)
