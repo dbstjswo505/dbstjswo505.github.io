@@ -53,6 +53,8 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 &emsp;&emsp;&emsp;<span style="color:#8B0000">Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, 2025 </span>
 
+&emsp;&emsp;&emsp;<span style="color:#8B0000">Doctoral Consortium (Ph.D. Thesis), ICCV 2025 </span>
+
 - Sep.2019 - Feb.2021: __M.S.__ Electrical Engineering (KAIST)
 
 &emsp;&emsp;&emsp;Thesis: "Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval"
