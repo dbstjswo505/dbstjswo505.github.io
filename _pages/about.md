@@ -37,6 +37,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉 I am serving as an Area Chair for ACL ARR (October cycle)
 - *2025.09*: &nbsp;🎉 Selected to present my Ph.D. thesis at the ICCV 2025 Doctoral Consortium
 - *2025.08*: &nbsp;🎉 One paper accepted to EMNLP 2025
 - *2025.06*: &nbsp;🎉 One paper accepted to ICCV 2025
@@ -578,9 +579,12 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - Award Excellence Prize in Autonomous Vehicle Creation Technology by Korea Auto Vehicle Safety Association, (2018.05)
 
-# 📑 Reviewer
+# 📑 Academic Service
 
-**Confernce**
+**Area Chair**
+- ACL ARR (October Cycle): 2025
+
+**Reviewer (Confernce)**
 
 - Neural Information Processing Systems (**Neurips**): 2023 ~ 
 
@@ -606,7 +610,7 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 - International Conference on Artificial Intelligence and Statistics (**AISTATS**): 2025 ~
 
-**Journal**
+**Reviewer (Journal)**
 - IEEE Transactions on Big Data
 
 - IEEE Transactions on Circuits and Systems for Video Technology
