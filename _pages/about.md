@@ -89,11 +89,22 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 [**1**] Minuk Ma *, <span style="color:royalblue">**Sunjae Yoon** </span> *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
 
-# 📝 Publications (28 publications, 15 fisrt-author)
+# 📝 Publications (29 publications, 15 fisrt-author)
 
 [*] equal contribution
 
 ## 2025
+<div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/ieie_journal_2025.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J7**] [**Spectral Masked Diffusion Transformer for Synthetic Aperture Radar to Optical Image Translation**]()
+
+<span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, Gwanhyeong Koo, Kyuwon Kim, JongSik Ahn, Tae-Young Lee, Chang D. Yoo.
+
+Journal of The Institute of Electronics and Information Engineers, 2025
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EMNLP 2025</div><img src='images/emnlp2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
