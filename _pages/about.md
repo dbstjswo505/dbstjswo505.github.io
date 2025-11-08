@@ -580,8 +580,13 @@ European Conference on Computer Vision (**ECCV**) 2020
 
 # Academic Activities
 
-# 💬 Invited Talks
-- *2023.05*, CAU-AI Core Technology Seminar: Empirical Methods and Recent Topics for Video Moment Retrieval, (2023-05-19) 
+# 💬 Invited Talks, Seminar, Lecture
+
+- [Seminar], AI Core Seminar: Towards Robust and Flexible Diffusion-based Video Editing, Oct. 2025
+- [Invited lecture], Multimodal Learning: Multimodal Visual Generative AI, Sep. 2025
+- [Talks], Alumni Association, Distinguished Graduate Research Talks, KAIST EE, Feb. 2025
+- [Panelist], Consultation on AI Education and Talent Retention, Innovation Academy, IITP, Seoul, Feb. 2025
+- [Seminar], CAU-AI Core Technology Seminar: Empirical Methods and Recent Topics for Video Moment Retrieval, Chung Ang Uinv. May. 2023
 
 # 🏆 Awards & Hornors
 
