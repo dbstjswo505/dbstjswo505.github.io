@@ -37,6 +37,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉 One paper accepted to AAAI 2026
 - *2025.10*: &nbsp;🎉 I am serving as an Area Chair for ACL ARR (October cycle)
 - *2025.09*: &nbsp;🎉 Selected to present my Ph.D. thesis at the ICCV 2025 Doctoral Consortium
 - *2025.08*: &nbsp;🎉 One paper accepted to EMNLP 2025
@@ -89,11 +90,22 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 [**1**] Minuk Ma *, <span style="color:royalblue">**Sunjae Yoon** </span> *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
 
-# 📝 Publications (29 publications, 16 fisrt-author)
+# 📝 Publications (30 publications, 16 fisrt-author)
 
 [*] equal contribution
 
 ## 2025
+<div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2026</div><img src='images/aaai2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C23**] [**GranAlign: Granularity-Aware Alignment Framework for Zero-shot Video Moment Retrieval**]()
+
+Mingyu Jeon, <span style="color:royalblue">**Sunjae Yoon** </span>, Jonghee Kim, Junyeong Kim.
+
+AAAI Association for the Advancement of Artificial Intelligence, 2026
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/ieie_journal_2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
