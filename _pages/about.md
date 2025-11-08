@@ -94,7 +94,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 [*] equal contribution
 
-## 2025
+## 2026
 <div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2026</div><img src='images/aaai2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
@@ -106,6 +106,7 @@ AAAI Association for the Advancement of Artificial Intelligence, 2026
 </div>
 </div>
 
+## 2025
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/ieie_journal_2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
