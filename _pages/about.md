@@ -20,8 +20,6 @@ redirect_from:
 # 😃 About me
 I am currently working as a postdoctoral researcher at KAIST as part of South Korea’s alternative 1-year military service (March 2025 ~ Feb 2026). My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including image/video/3D generation and editing. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
 
-<u>I will be available to start work in March 2026.</u>
-
 I warmly welcome and appreciate any work opportunities given to me.
 
 For more information, please refer to my [CV](https://drive.google.com/file/d/1umt2X6c9S4npC0-nfSn6KEVJkDJ15u12/view?usp=sharing)
@@ -37,6 +35,7 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉 One paper accepted to EACL 2026
 - *2025.11*: &nbsp;🎉 One paper accepted to AAAI 2026
 - *2025.10*: &nbsp;🎉 I am serving as an Area Chair for ACL ARR (October cycle)
 - *2025.09*: &nbsp;🎉 Selected to present my Ph.D. thesis at the ICCV 2025 Doctoral Consortium
@@ -95,10 +94,21 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 [*] equal contribution
 
 ## 2026
+<div class='paper-box'><div class='paper-box-image'><div class="badge">EACL 2026</div><img src='images/eacl2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C24**] [**Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance**]()
+
+Jongwon Ryu, Joonhyung Park, Jaeho Han, Yeong-Seok Kim, Hye-Rin Kim, <span style="color:royalblue">**Sunjae Yoon** </span>, and Junyeong Kim
+
+19th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2026.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">AAAI 2026</div><img src='images/aaai2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C23**] [**GranAlign: Granularity-Aware Alignment Framework for Zero-shot Video Moment Retrieval**]()
+[**C23**] [**GranAlign: Granularity-Aware Alignment Framework for Zero-shot Video Moment Retrieval**](https://arxiv.org/pdf/2601.00584)
 
 Mingyu Jeon, <span style="color:royalblue">**Sunjae Yoon** </span>, Jonghee Kim, Junyeong Kim.
 
@@ -110,7 +120,7 @@ AAAI Association for the Advancement of Artificial Intelligence, 2026
 <div class='paper-box'><div class='paper-box-image'><div class="badge">Journal of the IEIE</div><img src='images/ieie_journal_2025.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**J7**] [**Spectral Masked Diffusion Transformer for Synthetic Aperture Radar to Optical Image Translation**]()
+[**J7**] [**Spectral Masked Diffusion Transformer for Synthetic Aperture Radar to Optical Image Translation**](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12475799)
 
 <span style="color:royalblue">**Sunjae Yoon** </span>, Ji Woo Hong, Gwanhyeong Koo, Kyuwon Kim, JongSik Ahn, Tae-Young Lee, Chang D. Yoo.
 
