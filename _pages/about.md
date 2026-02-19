@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am currently working as a postdoctoral researcher at KAIST as part of South Korea’s alternative 1-year military service (March 2025 ~ Feb 2026). My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including image/video/3D generation and editing. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+I am currently working as an assistant professor at Department of Artificial Intelligence, Chung-Ang University. My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including image/video/3D generation and editing. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
 
 I warmly welcome and appreciate any work opportunities given to me.
 
@@ -35,6 +35,8 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 One paper accepted to ICLR 2026
+- *2026.01*: &nbsp;🎉 I am joining as assistant professor in Chung-Ang University (AI Department)
 - *2026.01*: &nbsp;🎉 One paper accepted to EACL 2026
 - *2025.11*: &nbsp;🎉 One paper accepted to AAAI 2026
 - *2025.10*: &nbsp;🎉 I am serving as an Area Chair for ACL ARR (October cycle)
