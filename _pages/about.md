@@ -91,11 +91,22 @@ For more information, please refer to my [CV](https://drive.google.com/file/d/1u
 
 [**1**] Minuk Ma *, <span style="color:royalblue">**Sunjae Yoon** </span> *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
 
-# 📝 Publications (31 publications, 16 fisrt-author)
+# 📝 Publications (32 publications, 16 fisrt-author)
 
 [*] equal contribution
 
 ## 2026
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2026</div><img src='images/iclr2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C25**] [**Diffusion Negative Preference Optimization Made Simple**]()
+
+Joshua Tian Jin Tee, Hee Suk Yoon, <span style="color:royalblue">**Sunjae Yoon** </span>, Tri Ton, and Chang D. Yoo
+
+International Conference on Learning Representation (**ICLR**), 2026
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EACL 2026</div><img src='images/eacl2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
