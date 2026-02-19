@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😃 About me
-I am currently working as an assistant professor at Department of Artificial Intelligence, Chung-Ang University. My expertise lies in Generative AI technologies (e.g., diffusion models) across multiple modalities, including image/video/3D generation and editing. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
+I am currently working as an assistant professor at Department of Artificial Intelligence, Chung-Ang University. My research team is ["Visual Intelligence and Generation"](https://sites.google.com/view/vig-lab/home) based on Multimodal Generative AI technologies (e.g., diffusion models) across multiple modalities, including image/video/3D generation and editing. I obtained Ph.D. (2025) and M.S. (2021) at KAIST, advised by Professor [Chang D. Yoo](http://sanctusfactory.com/family.php).
 
 I warmly welcome and appreciate any work opportunities given to me.
 
