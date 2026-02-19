@@ -22,8 +22,6 @@ I am currently working as an assistant professor at Department of Artificial Int
 
 I warmly welcome and appreciate any work opportunities given to me.
 
-For more information, please refer to my [CV](https://drive.google.com/file/d/1umt2X6c9S4npC0-nfSn6KEVJkDJ15u12/view?usp=sharing)
-
 # 📌 Research Interests
 - Computer Vision
 - Generative AI
