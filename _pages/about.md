@@ -33,6 +33,8 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉 One paper accepted to CVPR 2026
+- *2026.02*: &nbsp;🎉 One paper accepted to IEEE Access 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to ICLR 2026
 - *2026.01*: &nbsp;🎉 I am joining as assistant professor in Chung-Ang University (AI Department)
 - *2026.01*: &nbsp;🎉 One paper accepted to EACL 2026
@@ -89,15 +91,37 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 [**1**] Minuk Ma *, <span style="color:royalblue">**Sunjae Yoon**</span> *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
 
-# 📝 Publications (32 publications, 16 fisrt-author)
+# 📝 Publications (34 publications, 16 fisrt-author)
 
 [*] equal contribution
 
 ## 2026
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C26**] [**Visual Funnel: Resolving Contextual Blindness in Multimodal Large Language Models**]()
+
+Woojun Jung, Jaehoon Go, Mingyu Jeon, <span style="color:royalblue">**Sunjae Yoon**</span>, and Junyeong Kim
+
+Computer Vision and Pattern Recognition (**CVPR**), 2026, findings
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2026</div><img src='images/access2026.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**J8**] [**Lexical Distractor Mining Network for Causal Video Question Answering**]()
+
+Junyeong Kim, <span style="color:royalblue">**Sunjae Yoon**</span>
+
+IEEE Access, 2026
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICLR 2026</div><img src='images/iclr2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C25**] [**Diffusion Negative Preference Optimization Made Simple**]()
+[**C25**] [**Diffusion Negative Preference Optimization Made Simple**](https://openreview.net/forum?id=CU5EHe1KUt)
 
 Joshua Tian Jin Tee, Hee Suk Yoon, <span style="color:royalblue">**Sunjae Yoon**</span>, Tri Ton, and Chang D. Yoo
 
@@ -108,7 +132,7 @@ International Conference on Learning Representation (**ICLR**), 2026
 <div class='paper-box'><div class='paper-box-image'><div class="badge">EACL 2026</div><img src='images/eacl2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C24**] [**Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance**]()
+[**C24**] [**Language-Grounded Multi-Domain Image Translation via Semantic Difference Guidance**](https://arxiv.org/abs/2601.07221)
 
 Jongwon Ryu, Joonhyung Park, Jaeho Han, Yeong-Seok Kim, Hye-Rin Kim, <span style="color:royalblue">**Sunjae Yoon**</span>, and Junyeong Kim
 
