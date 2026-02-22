@@ -96,7 +96,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 [*] equal contribution
 
 ## 2026
-<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2026</div><img src='images/cvpr2026.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2026</div><img src='images/cvpr2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C26**] [**Visual Funnel: Resolving Contextual Blindness in Multimodal Large Language Models**]()
@@ -107,7 +107,7 @@ Computer Vision and Pattern Recognition (**CVPR**), 2026, findings
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2026</div><img src='images/access2026.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2026</div><img src='images/access2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**J8**] [**Lexical Distractor Mining Network for Causal Video Question Answering**]()
