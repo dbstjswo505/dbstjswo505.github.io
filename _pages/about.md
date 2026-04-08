@@ -100,7 +100,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ACL 2026</div><img src='images/acl2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C27**] [**Selective Test-Time Debiasing for CLIP via Reward Gating**]()
+[**C27**] [**Selective Test-Time Debiasing for CLIP via Reward Gating**](https://openreview.net/forum?id=SoEu2uM4FC#discussion)
 
 Jaeho Han, Jisoo Yang, Hyeondong Woo, Migyu Jeon, <span style="color:royalblue">**Sunjae Yoon**</span>, and Junyeong Kim
 
@@ -111,7 +111,7 @@ The 64th Annual Meeting of the Association for Computational Linguistics (**ACL*
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2026</div><img src='images/cvpr2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C26**] [**Visual Funnel: Resolving Contextual Blindness in Multimodal Large Language Models**]()
+[**C26**] [**Visual Funnel: Resolving Contextual Blindness in Multimodal Large Language Models**](https://arxiv.org/abs/2512.10362)
 
 Woojun Jung, Jaehoon Go, Mingyu Jeon, <span style="color:royalblue">**Sunjae Yoon**</span>, and Junyeong Kim
 
@@ -122,7 +122,7 @@ Computer Vision and Pattern Recognition (**CVPR**), 2026, findings
 <div class='paper-box'><div class='paper-box-image'><div class="badge">IEEE Access 2026</div><img src='images/access2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**J8**] [**Lexical Distractor Mining Network for Causal Video Question Answering**]()
+[**J8**] [**Lexical Distractor Mining Network for Causal Video Question Answering**](https://ieeexplore.ieee.org/document/11406082/)
 
 Junyeong Kim, <span style="color:royalblue">**Sunjae Yoon**</span>
 
