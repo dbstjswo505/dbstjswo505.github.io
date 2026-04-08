@@ -97,7 +97,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 [*] equal contribution
 
 ## 2026
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ACL 2026</div><img src='images/acl2026.PNG' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ACL 2026</div><img src='images/acl2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C27**] [**Selective Test-Time Debiasing for CLIP via Reward Gating**]()
