@@ -33,6 +33,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉 One paper accepted to ACL 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to CVPR 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to IEEE Access 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to ICLR 2026
@@ -91,11 +92,22 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 [**1**] Minuk Ma *, <span style="color:royalblue">**Sunjae Yoon**</span> *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
 
-# 📝 Publications (34 publications, 16 fisrt-author)
+# 📝 Publications (35 publications, 16 fisrt-author)
 
 [*] equal contribution
 
 ## 2026
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ACL 2026</div><img src='images/acl2026.PNG' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C27**] [**Selective Test-Time Debiasing for CLIP via Reward Gating**]()
+
+Jaeho Han, Jisoo Yang, Hyeondong Woo, Migyu Jeon, <span style="color:royalblue">**Sunjae Yoon**</span>, and Junyeong Kim
+
+The 64th Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026, (long paper, main)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2026</div><img src='images/cvpr2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
