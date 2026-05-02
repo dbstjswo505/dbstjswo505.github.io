@@ -91,7 +91,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 [*] equal contribution
 
 ## 2026
-<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2026</div><img src='images/icml2026.PNG' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2026</div><img src='images/icml2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [**C28**] [**GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting**]()
