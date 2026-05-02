@@ -33,7 +33,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 
 # 🔥 News
-- *2026.045*: &nbsp;🎉 One paper accepted to ICML 2026
+- *2026.05*: &nbsp;🎉 One paper accepted to ICML 2026
 - *2026.04*: &nbsp;🎉 One paper accepted to ACL 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to CVPR 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to IEEE Access 2026
