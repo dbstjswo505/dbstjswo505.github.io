@@ -33,19 +33,13 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 
 # 🔥 News
+- *2026.045*: &nbsp;🎉 One paper accepted to ICML 2026
 - *2026.04*: &nbsp;🎉 One paper accepted to ACL 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to CVPR 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to IEEE Access 2026
 - *2026.02*: &nbsp;🎉 One paper accepted to ICLR 2026
 - *2026.01*: &nbsp;🎉 I am joining as assistant professor in Chung-Ang University (AI Department)
 - *2026.01*: &nbsp;🎉 One paper accepted to EACL 2026
-- *2025.11*: &nbsp;🎉 One paper accepted to AAAI 2026
-- *2025.10*: &nbsp;🎉 I am serving as an Area Chair for ACL ARR (October cycle)
-- *2025.09*: &nbsp;🎉 Selected to present my Ph.D. thesis at the ICCV 2025 Doctoral Consortium
-- *2025.08*: &nbsp;🎉 One paper accepted to EMNLP 2025
-- *2025.06*: &nbsp;🎉 One paper accepted to ICCV 2025
-- *2025.05*: &nbsp;🎉 One paper accepted to ICML 2025 (Spotlight)
-- *2025.03*: &nbsp;🎉 Outstanding Ph.D. Dissertation Award, School of Electrical Engineering, KAIST, 2025
 
 # 🏫 Education
 
@@ -97,6 +91,17 @@ I warmly welcome and appreciate any work opportunities given to me.
 [*] equal contribution
 
 ## 2026
+<div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2026</div><img src='images/icml2026.PNG' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[**C28**] [**GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting**](https://openreview.net/forum?id=SoEu2uM4FC#discussion)
+
+Siwoo Lim, <span style="color:royalblue">**Sunjae Yoon**</span>†, Gwanhyeong Koo, Chang D. Yoo†
+
+The 64th Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026, (long paper, main)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ACL 2026</div><img src='images/acl2026.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
