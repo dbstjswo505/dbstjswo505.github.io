@@ -98,7 +98,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 Siwoo Lim, <span style="color:royalblue">**Sunjae Yoon**</span>†, Gwanhyeong Koo, Chang D. Yoo†
 
-The 64th Annual Meeting of the Association for Computational Linguistics (**ACL**) 2026, (long paper, main)
+International Conference on Machine Learning (<strong>ICML</strong>) 2026
 </div>
 </div>
 
