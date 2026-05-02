@@ -88,7 +88,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 # 📝 Publications (36 publications, 16 fisrt-author)
 
-[*] equal contribution
+[*] equal contribution [†] corresponding author
 
 ## 2026
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2026</div><img src='images/icml2026.png' alt="sym" width="100%"></div>
