@@ -86,7 +86,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 
 [**1**] Minuk Ma *, <span style="color:royalblue">**Sunjae Yoon**</span> *, Junyeong Kim, Youngjuoon Lee, Sunghun Kang, and Chang D. Yoo, "VLANet: Video-Language Alignment Network for Weakly-Supervised Video Moment Retrieval", European Conference on Computer Vision (**ECCV**) 2020 (equal contribution)
 
-# 📝 Publications (35 publications, 16 fisrt-author)
+# 📝 Publications (36 publications, 16 fisrt-author)
 
 [*] equal contribution
 
