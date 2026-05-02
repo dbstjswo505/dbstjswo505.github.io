@@ -94,7 +94,7 @@ I warmly welcome and appreciate any work opportunities given to me.
 <div class='paper-box'><div class='paper-box-image'><div class="badge">ICML 2026</div><img src='images/icml2026.PNG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[**C28**] [**GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting**](https://openreview.net/forum?id=SoEu2uM4FC#discussion)
+[**C28**] [**GADA: Geometry-Aware Deformable Aggregation for Image-Based Gaussian Splatting**]()
 
 Siwoo Lim, <span style="color:royalblue">**Sunjae Yoon**</span>†, Gwanhyeong Koo, Chang D. Yoo†
 
